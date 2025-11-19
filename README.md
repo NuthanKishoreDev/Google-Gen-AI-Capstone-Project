@@ -1,15 +1,8 @@
-# JourneyWeaver AI Agent (Google-Gen-AI-Capstone-Project)
+# 🌍 JourneyWeaver AI Agent (Google-Gen-AI-Capstone-Project)
 
 JourneyWeaver AI Agent is a multi-agent travel planning system that automatically researches destinations, builds personalized itineraries, and optimizes trips with smart, real-time insights.
 
-Below is your **complete, polished, submission-ready capstone documentation** for your project:
-
-# 🌍 **JourneyWeaver AI Agent**
-
 ### *End-to-End Automated Travel Planning System*
-
-**Capstone Project Documentation — Google AI Agents Course**
-
 ---
 
 # 1. **Project Overview**
