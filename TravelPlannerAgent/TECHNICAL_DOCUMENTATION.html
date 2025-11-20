@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JourneyWeaver AI Agent - Technical Documentation</title>
+  <style>
+    img {
+      max-width: 50%;
+      max-height: 50%;
+      display: block;
+      margin: 1.5rem auto;
+    }
+
+    body {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 1rem;
+    }
+
+    pre {
+      overflow-x: auto;
+    }
+  </style>
+  <style>
+    /* From extension vscode.github */
+    /*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+    .vscode-dark img[src$=\#gh-light-mode-only],
+    .vscode-light img[src$=\#gh-dark-mode-only],
+    .vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+    .vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+      display: none;
+    }
+  </style>
+
+  <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+  <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+  </style>
+  <style>
+    .task-list-item {
+      list-style-type: none;
+    }
+
+    .task-list-item-checkbox {
+      margin-left: -20px;
+      vertical-align: middle;
+      pointer-events: none;
+    }
+  </style>
+  <style>
+    :root {
+      --color-note: #0969da;
+      --color-tip: #1a7f37;
+      --color-warning: #9a6700;
+      --color-severe: #bc4c00;
+      --color-caution: #d1242f;
+      --color-important: #8250df;
+    }
+  </style>
+  <style>
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --color-note: #2f81f7;
+        --color-tip: #3fb950;
+        --color-warning: #d29922;
+        --color-severe: #db6d28;
+        --color-caution: #f85149;
+        --color-important: #a371f7;
+      }
+    }
+  </style>
+  <style>
+    .markdown-alert {
+      padding: 0.5rem 1rem;
+      margin-bottom: 16px;
+      color: inherit;
+      border-left: .25em solid #888;
+    }
+
+    .markdown-alert>:first-child {
+      margin-top: 0
+    }
+
+    .markdown-alert>:last-child {
+      margin-bottom: 0
+    }
+
+    .markdown-alert .markdown-alert-title {
+      display: flex;
+      font-weight: 500;
+      align-items: center;
+      line-height: 1
+    }
+
+    .markdown-alert .markdown-alert-title .octicon {
+      margin-right: 0.5rem;
+      display: inline-block;
+      overflow: visible !important;
+      vertical-align: text-bottom;
+      fill: currentColor;
+    }
+
+    .markdown-alert.markdown-alert-note {
+      border-left-color: var(--color-note);
+    }
+
+    .markdown-alert.markdown-alert-note .markdown-alert-title {
+      color: var(--color-note);
+    }
+
+    .markdown-alert.markdown-alert-important {
+      border-left-color: var(--color-important);
+    }
+
+    .markdown-alert.markdown-alert-important .markdown-alert-title {
+      color: var(--color-important);
+    }
+
+    .markdown-alert.markdown-alert-warning {
+      border-left-color: var(--color-warning);
+    }
+
+    .markdown-alert.markdown-alert-warning .markdown-alert-title {
+      color: var(--color-warning);
+    }
+
+    .markdown-alert.markdown-alert-tip {
+      border-left-color: var(--color-tip);
+    }
+
+    .markdown-alert.markdown-alert-tip .markdown-alert-title {
+      color: var(--color-tip);
+    }
+
+    .markdown-alert.markdown-alert-caution {
+      border-left-color: var(--color-caution);
+    }
+
+    .markdown-alert.markdown-alert-caution .markdown-alert-title {
+      color: var(--color-caution);
+    }
+  </style>
+
+</head>
+
+<body class="vscode-body vscode-light">
+  <h1 id="journeyweaver-ai-agent---technical-documentation">JourneyWeaver AI Agent - Technical Documentation</h1>
+  <p><img src="output_screenshots/JourneyWeaverAILogo.png" alt="JourneyWeaver AI Logo" style="max-width: 200px;"></p>
+  <h2 id="1-introduction">1. Introduction</h2>
+  <p><strong>JourneyWeaver</strong> is an advanced AI-powered travel planning system built using the Google Gen AI Agent
+    Development Kit (ADK). It employs a sequential multi-agent architecture to research destinations, build detailed
+    itineraries, and optimize travel plans with practical advice.</p>
+  <h2 id="2-system-architecture">2. System Architecture</h2>
+  <p>The system utilizes a <strong>Sequential Agent</strong> pattern, where the output of one agent serves as the
+    context/input for the next.</p>
+  <h3 id="high-level-diagram">High-Level Diagram</h3>
+  <p><img src="output_screenshots/JourneyWeaverAI_diagram.png" alt="JourneyWeaver AI Diagram"></p>
+  <h3 id="agent-flow">Agent Flow</h3>
+  <ol>
+    <li>
+      <p><strong>DestinationResearchAgent</strong>:</p>
+      <ul>
+        <li><strong>Role</strong>: Researcher.</li>
+        <li><strong>Input</strong>: User's destination and travel preferences.</li>
+        <li><strong>Tools</strong>: Google Search.</li>
+        <li><strong>Output</strong>: Comprehensive research on weather, attractions, culture, and safety
+          (<code>destination_research</code>).</li>
+      </ul>
+    </li>
+    <li>
+      <p><strong>ItineraryBuilderAgent</strong>:</p>
+      <ul>
+        <li><strong>Role</strong>: Planner.</li>
+        <li><strong>Input</strong>: <code>destination_research</code> data.</li>
+        <li><strong>Output</strong>: Structured day-by-day itinerary with budget estimates
+          (<code>travel_itinerary</code>).</li>
+      </ul>
+    </li>
+    <li>
+      <p><strong>TravelOptimizerAgent</strong>:</p>
+      <ul>
+        <li><strong>Role</strong>: Consultant.</li>
+        <li><strong>Input</strong>: <code>travel_itinerary</code>.</li>
+        <li><strong>Output</strong>: Final optimized plan with money-saving tips, packing lists, and contingency plans.
+        </li>
+      </ul>
+    </li>
+  </ol>
+  <h3 id="execution-flows">Execution Flows</h3>
+  <p><strong>Invocation Flow:</strong>
+    <img src="output_screenshots/Travel%20Agent-%20Invocation%20flow.png" alt="Invocation Flow">
+  </p>
+  <p><strong>Sequential Agent Execution:</strong>
+    <img src="output_screenshots/Travel%20Agent-(Sequal%20Agent%20Execution%20flow).png" alt="Sequential Execution">
+  </p>
+  <h2 id="3-prerequisites">3. Prerequisites</h2>
+  <ul>
+    <li><strong>Python</strong>: 3.9 or higher.</li>
+    <li><strong>Google Cloud Project</strong>: With Vertex AI API enabled.</li>
+    <li><strong>API Keys</strong>: Google Gen AI API Key.</li>
+  </ul>
+  <h2 id="4-installation--setup">4. Installation &amp; Setup</h2>
+  <ol>
+    <li>
+      <p><strong>Clone the Repository</strong>:</p>
+      <pre><code class="language-bash">git <span class="hljs-built_in">clone</span> &lt;repository-url&gt;
+<span class="hljs-built_in">cd</span> TravelPlannerAgent
+</code></pre>
+    </li>
+    <li>
+      <p><strong>Create Virtual Environment</strong>:</p>
+      <pre><code class="language-bash">python -m venv venv
+<span class="hljs-built_in">source</span> venv/bin/activate  <span class="hljs-comment"># On Windows: venv\Scripts\activate</span>
+</code></pre>
+    </li>
+    <li>
+      <p><strong>Install Dependencies</strong>:</p>
+      <pre><code class="language-bash">pip install -r requirements.txt
+</code></pre>
+    </li>
+    <li>
+      <p><strong>Environment Configuration</strong>:
+        Create a <code>.env</code> file in the root directory:</p>
+      <pre><code class="language-env">GOOGLE_API_KEY=your_google_api_key_here
+PROJECT_ID=your_gcp_project_id
+LOCATION=us-central1
+</code></pre>
+    </li>
+  </ol>
+  <h2 id="5-usage">5. Usage</h2>
+  <p>The agent is initialized in <code>agent.py</code>. You can run it directly or integrate it into a larger
+    application via the <code>Runner</code>.</p>
+  <h3 id="running-the-agent">Running the Agent</h3>
+  <pre><code class="language-python"><span class="hljs-keyword">from</span> agent <span class="hljs-keyword">import</span> runner
+
+<span class="hljs-comment"># Example execution</span>
+response = runner.run(
+    input_text=<span class="hljs-string">&quot;Plan a 5-day trip to Kyoto, Japan for a couple interested in history and food.&quot;</span>
+)
+<span class="hljs-built_in">print</span>(response)
+</code></pre>
+  <h2 id="6-code-structure">6. Code Structure</h2>
+  <ul>
+    <li><strong><code>agent.py</code></strong>: Main entry point.
+      <ul>
+        <li><strong><code>logging</code></strong>: Configures debug logging.</li>
+        <li><strong><code>retry_config</code></strong>: Defines HTTP retry logic for robustness.</li>
+        <li><strong><code>AGENT_MODEL</code></strong>: Configures the Gemini model (currently
+          <code>gemini-2.5-flash-lite-preview-09-2025</code>).
+        </li>
+        <li><strong><code>session_service</code></strong>: Manages conversation state (currently
+          <code>InMemorySessionService</code>).
+        </li>
+        <li><strong>Agents</strong>: Definitions for <code>DestinationResearchAgent</code>,
+          <code>ItineraryBuilderAgent</code>, and <code>TravelOptimizerAgent</code>.
+        </li>
+        <li><strong><code>root_agent</code></strong>: The <code>SequentialAgent</code> orchestrating the workflow.</li>
+        <li><strong><code>runner</code></strong>: The ADK runner instance.</li>
+      </ul>
+    </li>
+  </ul>
+  <h2 id="7-deployment-guide-google-cloud-run">7. Deployment Guide (Google Cloud Run)</h2>
+  <p>To deploy this agent as a scalable microservice:</p>
+  <h3 id="1-containerize">1. Containerize</h3>
+  <p>Create a <code>Dockerfile</code> in the root:</p>
+  <pre><code class="language-dockerfile"><span class="hljs-keyword">FROM</span> python:<span class="hljs-number">3.9</span>-slim
+
+<span class="hljs-keyword">WORKDIR</span><span class="language-bash"> /app</span>
+<span class="hljs-keyword">COPY</span><span class="language-bash"> . .</span>
+<span class="hljs-keyword">RUN</span><span class="language-bash"> pip install --no-cache-dir -r requirements.txt</span>
+
+<span class="hljs-comment"># Assuming you wrap the runner in a web server (e.g., FastAPI)</span>
+<span class="hljs-comment"># CMD [&quot;uvicorn&quot;, &quot;main:app&quot;, &quot;--host&quot;, &quot;0.0.0.0&quot;, &quot;--port&quot;, &quot;8080&quot;]</span>
+</code></pre>
+  <h3 id="2-build--push">2. Build &amp; Push</h3>
+  <pre><code class="language-bash">gcloud builds submit --tag gcr.io/YOUR_PROJECT_ID/travel-planner-agent
+</code></pre>
+  <h3 id="3-deploy-to-cloud-run">3. Deploy to Cloud Run</h3>
+  <pre><code class="language-bash">gcloud run deploy travel-planner-agent \
+  --image gcr.io/YOUR_PROJECT_ID/travel-planner-agent \
+  --platform managed \
+  --region us-central1 \
+  --allow-unauthenticated
+</code></pre>
+  <h2 id="8-scalability-strategy">8. Scalability Strategy</h2>
+  <p>The current implementation uses <code>InMemorySessionService</code>, which is suitable for single-instance
+    deployments. For high scalability:</p>
+  <ol>
+    <li><strong>Statelessness</strong>: Move session state out of memory.</li>
+    <li><strong>Distributed Session Store</strong>: Replace <code>InMemorySessionService</code> with a persistent store
+      like <strong>Firestore</strong> or <strong>Redis</strong>. This allows any instance to handle any user request.
+      <pre><code class="language-python"><span class="hljs-comment"># Example conceptual change</span>
+<span class="hljs-keyword">from</span> google.adk.sessions <span class="hljs-keyword">import</span> FirestoreSessionService
+session_service = FirestoreSessionService(project_id=<span class="hljs-string">&quot;...&quot;</span>)
+</code></pre>
+    </li>
+    <li><strong>Horizontal Scaling</strong>: Cloud Run automatically scales the number of container instances based on
+      request traffic (CPU/Memory utilization).</li>
+    <li><strong>Caching</strong>: Implement caching for <code>DestinationResearchAgent</code> results (e.g., using
+      Redis) to reduce API costs and latency for popular destinations.</li>
+  </ol>
+  <h2 id="9-troubleshooting">9. Troubleshooting</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Issue</th>
+        <th>Possible Cause</th>
+        <th>Solution</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>429 Too Many Requests</strong></td>
+        <td>API quota exceeded.</td>
+        <td>The <code>retry_config</code> handles transient errors, but you may need to request a quota increase.</td>
+      </tr>
+      <tr>
+        <td><strong>Context Limit Exceeded</strong></td>
+        <td>Itinerary too long.</td>
+        <td>Reduce the scope of the request or switch to a model with a larger context window (e.g., Gemini 1.5 Pro).
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Empty Response</strong></td>
+        <td>Search tool failure.</td>
+        <td>Verify internet connectivity and Google Search tool configuration.</td>
+      </tr>
+    </tbody>
+  </table>
+  <h2 id="10-faq">10. FAQ</h2>
+  <p><strong>Q: Can I add more agents?</strong>
+    A: Yes, simply define a new <code>Agent</code> in <code>agent.py</code> and add it to the <code>sub_agents</code>
+    list in the <code>root_agent</code> definition.</p>
+  <p><strong>Q: How do I change the AI model?</strong>
+    A: Update the <code>model</code> parameter in the <code>AGENT_MODEL</code> initialization in <code>agent.py</code>.
+  </p>
+  <p><strong>Q: Does it support other languages?</strong>
+    A: Yes, Gemini is multilingual. You can prompt the agent in other languages, or add a system instruction to always
+    output in a specific language.</p>
+  <p><strong>Q: Is the data persisted?</strong>
+    A: Currently, no. The <code>InMemorySessionService</code> is volatile. See the <strong>Scalability</strong> section
+    for persistence options.</p>
+  <h2 id="11-visuals--screenshots">11. Visuals &amp; Screenshots</h2>
+  <h3 id="adk-web-console">ADK Web Console</h3>
+  <p>The agent can be monitored and tested using the ADK Web Console:
+    <img src="output_screenshots/adk_web_console.png" alt="ADK Web Console">
+  </p>
+  <h3 id="evaluation-results">Evaluation Results</h3>
+  <p>Performance metrics and evaluation results:
+    <img src="output_screenshots/Agent_Evalution_results.png" alt="Evaluation Results">
+  </p>
+
+
+
+</body>
+
+</html>
