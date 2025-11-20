@@ -1,0 +1,677 @@
+{
+  "id": "bc0417b9-2b13-4cbc-8414-f23624fd4438",
+  "appName": "TravelPlannerAgent",
+  "userId": "user",
+  "state": {
+    "destination_research": "Here is a comprehensive plan for your 7-day cultural deep-dive in Kyoto, focusing on temples, traditions, tea ceremonies, and nature.\n\n### Kyoto Cultural Deep-Dive: 7-Day Itinerary Outline\n\n**Best Time to Visit & Weather:**\nThe best times to visit Kyoto are in **Spring (March to May)** for the cherry blossoms and **Autumn (October to November)** for the fall foliage, as the weather is generally temperate and comfortable for sightseeing. Summer (June to August) is hot and humid, while winter (December to February) is cold.\n\n---\n\n### Day-by-Day Cultural Itinerary\n\n| Day | Focus Area | Morning Activity | Afternoon Activity | Evening Activity |\n| :--- | :--- | :--- | :--- | :--- |\n| **1** | **Arrival & Eastern Kyoto (Higashiyama)** | Arrive in Kyoto, check into accommodation. | **Kiyomizu-dera Temple:** Explore this iconic, historic World Heritage site, famous for its wooden veranda. | Stroll through the historic **Sannenzaka & Ninenzaka** streets, perhaps enjoying a traditional sweet. |\n| **2** | **Zen & Tea Tradition** | **Tea Ceremony Experience:** Participate in a traditional Japanese tea ceremony. Look for one in the Gion or Higashiyama areas. | **Kodai-ji Temple:** Visit this Zen Buddhist temple, often beautiful during fall foliage viewing. | Explore **Gion District:** Look respectfully for *geiko* (Kyoto term for geisha) and *maiko* (apprentice geisha) on their way to engagements. |\n| **3** | **Golden Beauty & Rock Gardens** | **Kinkaku-ji (Golden Pavilion):** Visit this stunning UNESCO World Heritage site covered in gold leaf. | **Ryoan-ji Temple:** Contemplate the famous and enigmatic rock garden at this Zen temple. | **Nishijin Textile Center** (Optional): Observe traditional weaving demonstrations. |\n| **4** | **Southern Nature & Shrines** | **Fushimi Inari Taisha Shrine:** Hike the mountain path lined with thousands of vibrant red *torii* gates. | Explore the quieter paths further up Mt. Inari for a more nature-focused experience. | Dinner near your accommodation or try a local *izakaya*. |\n| **5** | **Arashiyama Nature & Zen** | **Tenryū-ji Temple:** Explore this major Zen temple and its celebrated landscape garden, a UNESCO site. | **Arashiyama Bamboo Grove:** Stroll through the towering bamboo stalks, a highlight of Kyoto's nature. | Relaxing evening, perhaps visiting a local *onsen* (hot spring) if available near your lodging. |\n| **6** | **Imperial History & Craft** | **Nijo-jo Castle:** Tour the former residence of the Tokugawa Shogunate, known for its \"nightingale floors.\" | **Northern Kyoto Temple Visit:** Visit **Daitoku-ji** complex for a more secluded Zen experience with beautiful rock gardens. | **Philosopher's Path (Tetsugaku-no-michi):** An evening walk along this path (best in Spring/Autumn, but tranquil year-round). |\n| **7** | **Deep Culture & Departure** | **Sanjūsangen-dō Temple:** See the impressive hall containing 1,000 life-sized statues of Kannon. | Final souvenir shopping or revisiting a favorite quiet spot like **Honen-in Temple**. | Depart from Kyoto. |\n\n---\n\n### Local Culture, Customs, and Etiquette Tips\n\n*   **Respect Sacred Spaces:** When visiting temples and shrines, show respect by keeping your voice down and avoiding running. Do not touch or lean on ancient wooden structures.\n*   **Temple Etiquette:** Remove outdoor shoes before entering temple buildings where required (often in areas with *tatami* flooring). Follow photography restrictions; do not use flash or take pictures where prohibited. Utilize the purification fountain (*temizuya*) correctly before entering.\n*   **Geisha Etiquette:** If you see a *geiko* or *maiko* in Gion, do not stop them, follow them, or touch their kimono. Take photos from a respectful distance, if at all.\n*   **Noise and Public Conduct:** Keep your voice down in public areas, especially on public transportation and in residential areas like Gion.\n*   **Eating/Walking:** Avoid eating or drinking while walking in crowded tourist areas or within shrines and temples, as this is prohibited in many places.\n*   **Tipping:** Tipping is **not** customary in Japan; a simple \"thank you\" is sufficient appreciation for good service.\n*   **Trash:** Kyoto has few public trash bins, so carry a small bag for your waste and dispose of it properly later.\n\n---\n\n### Transportation Options\n\nKyoto has an excellent and efficient public transportation system.\n\n*   **Buses:** The primary way to reach many temples and tourist sites, as the subway network is less extensive. Be prepared for congestion during peak hours. Consider purchasing a **Kyoto City Bus One-Day Pass** if you plan multiple bus rides.\n*   **Subway:** Useful for north-south and east-west travel across the city center.\n*   **Trains (JR and Private Lines):** Essential for reaching areas like Arashiyama (JR Sagano Line) and Fushimi Inari (JR Nara Line).\n*   **Walking/Cycling:** Many districts, like Higashiyama and Arashiyama, are best explored on foot. Cycling is also a great option in flatter areas.\n*   **Etiquette on Transit:** Always queue when waiting for buses or trains. Keep noise to a minimum on public transport.\n\n---\n\n### Safety Considerations and Travel Requirements\n\n*   **General Safety:** Kyoto is considered one of the safest cities in the world, with low crime rates. It is generally safe to walk around at night, even as a solo traveler.\n*   **Petty Crime:** While rare, remain vigilant about your belongings in crowded areas like Nishiki Market or during festivals to guard against pickpocketing.\n*   **Emergency Numbers:**\n    *   Police: **110**\n    *   Fire/Ambulance: **119**\n*   **Wildlife:** Be aware that Asiatic black bears have occasionally been sighted in areas near mountains, especially early morning or dusk. Take precautions if venturing into forested or mountainous areas.\n*   **Requirements:** As part of Japan, standard entry requirements (passport, visa if necessary) apply. Always check the latest official travel advisories before departure.",
+    "travel_itinerary": "# 7-Day Cultural Deep-Dive Itinerary: Kyoto\n\nThis itinerary is designed for a comprehensive cultural immersion in Kyoto, balancing iconic historical sites with intimate experiences of Zen, tea traditions, and natural beauty.\n\n**Best Time to Travel:** Spring (Cherry Blossoms) or Autumn (Fall Foliage).\n\n---\n\n## Suggested Accommodation Area\n\nFor a first-time deep dive focusing on culture and accessibility, consider staying in or near:\n\n1.  **Higashiyama (East Kyoto):** Excellent access to Kiyomizu-dera, Gion, and the Philosopher's Path. Very atmospheric.\n2.  **Central Kyoto (Near Karasuma/Kawaramachi Stations):** Best for transportation links (subway and buses) and modern dining/shopping convenience.\n\n---\n\n## Day-by-Day Schedule\n\n### Day 1: Arrival & The Iconic East (Higashiyama)\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | Arrival at KIX/ITM, Transfer to Kyoto, Check-in | 3 - 4 hours | Take the Haruka Express (KIX) or Limousine Bus (ITM) to Kyoto Station. Settle into your accommodation. |\n| Lunch | Simple Udon or Soba near your hotel. | 1 hour | Look for a small, family-run noodle shop for a quick, authentic start. |\n| Afternoon | **Kiyomizu-dera Temple** | 2 - 3 hours | Explore the main hall and the Otowa Waterfall. **Etiquette Note:** Be mindful of large crowds. |\n| Late Afternoon | Stroll **Sannenzaka & Ninenzaka** streets | 1.5 hours | Browse traditional craft shops and wooden machiya houses. |\n| Dinner | **Higashiyama Dinner** | 1.5 - 2 hours | **Recommendation:** Try *Yuba* (tofu skin) cuisine, a Kyoto specialty, or find a cozy *yakitori* spot. |\n\n### Day 2: Zen, Tea, and Geiko Culture\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Traditional Tea Ceremony Experience** | 1.5 - 2 hours | Book in advance in the Gion or Higashiyama area. Focus on the meditative aspects of *Chanoyu*. |\n| Lunch | Lunch in Gion | 1 hour | Casual lunch near the Shirakawa canal area. |\n| Afternoon | **Kodai-ji Temple** | 2 hours | Explore the beautiful Zen gardens, especially impressive if autumn colors are present. |\n| Evening | **Gion District Walk** | 2 - 3 hours | Walk along Hanamikoji Street after sunset. **Crucial Etiquette:** Do not harass or block the paths of Geiko/Maiko. |\n| Dinner | **Pontocho Alley Dining** | 2 hours | Explore this narrow atmospheric alleyway running parallel to the Kamo River. Offers various options from high-end *kaiseki* to casual dining. |\n\n### Day 3: Golden Splendor and Contemplation\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Kinkaku-ji (Golden Pavilion)** | 1.5 hours | Aim to arrive shortly after opening (usually 9:00 AM) to experience the morning light reflecting off the gold. |\n| Transit | Travel to Ryoan-ji | 30 minutes | Use a local bus, as the subway does not reach these sites directly. |\n| Afternoon | **Ryoan-ji Temple** | 1.5 hours | Spend quiet time contemplating the famous rock garden. This is a core Zen experience. |\n| Late Afternoon | **Nishijin Textile Center (Optional)** | 1.5 hours | Observe kimono weaving demonstrations and perhaps purchase high-quality silk crafts. |\n| Dinner | **Central Kyoto/Nishiki Market Area** | 2 hours | Explore the area around Nishiki Market (though the market itself closes early). Look for quality sushi or tempura. |\n\n### Day 4: The Thousand Gates of Inari\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Fushimi Inari Taisha Shrine** | 3 - 4 hours | Start early (before 8:00 AM is ideal) to hike through the thousands of *torii* gates without intense crowds. Hike as far up Mt. Inari as you feel comfortable. |\n| Lunch | **Inari Street Food** | 1 hour | Try *Inari Sushi* (sushi rice in a fried tofu pouch) or grilled sparrow (a local delicacy, if adventurous) near the shrine entrance. |\n| Afternoon | Return to Central Kyoto & Rest | 2 hours | Use the JR Nara Line for quick return. This afternoon is intentionally lighter after the hike. |\n| Evening | **Local Izakaya Experience** | 2 - 3 hours | Find a local, non-touristy *izakaya* (Japanese pub) near your accommodation for small plates and local sake/beer. |\n\n### Day 5: Arashiyama Nature Immersion\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | Travel to Arashiyama & **Tenryū-ji Temple** | 3 hours | Take the JR Sagano Line. Visit the temple first to enjoy its superb landscape garden before the crowds peak. |\n| Lunch | Riverside Dining | 1 hour | Enjoy lunch with views of the Katsura River, perhaps trying Kyoto-style pickles (*tsukemono*). |\n| Afternoon | **Arashiyama Bamboo Grove** | 1.5 hours | Walk through the iconic grove. Continue walking past the main grove towards the quieter Okochi Sanso Villa (if time permits). |\n| Late Afternoon | **Hozugawa River Boat Ride (Seasonal)** | 2 hours | Optional: If conditions allow and you enjoy nature, consider this scenic boat ride. |\n| Evening | **Relaxation / Onsen** | Varies | If your accommodation doesn't have one, seek out a public *sento* (bathhouse) or *onsen* for relaxation after a long day of walking. |\n\n### Day 6: Shogun Power and Secluded Zen\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Nijo-jo Castle** | 2.5 hours | Explore the Shogun's residence. Listen for the famous \"nightingale floors\" designed to squeak and warn against intruders. |\n| Lunch | Near Nijo-jo or transition area. | 1 hour | Quick, satisfying lunch before heading north. |\n| Afternoon | **Daitoku-ji Temple Complex** | 2.5 - 3 hours | Visit this large Zen complex. Focus on one or two sub-temples like Koto-in or Zuihō-in for deep tranquility away from major tourist routes. |\n| Evening | **Philosopher's Path (Tetsugaku-no-michi) Walk** | 1.5 hours | A reflective evening walk along the canal. Very peaceful outside of peak cherry blossom season. |\n| Dinner | **Near Demachiyanagi or Imadegawa** | 1.5 - 2 hours | Explore dining options in the area near the northern end of the path. |\n\n### Day 7: Final Masterpieces & Departure\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Sanjūsangen-dō Temple** | 1.5 - 2 hours | Witness the mesmerizing hall containing 1,001 statues of Kannon, the Goddess of Mercy. Allow time for quiet observation. |\n| Midday | **Final Reflection Spot (Honen-in Temple)** | 1 hour | A small, atmospheric temple near the Philosopher's Path entrance, known for its moss and quiet solitude. |\n| Lunch | **Kyoto Station Area** | 1.5 hours | Lunch at Kyoto Station’s vast dining complex (e.g., The Cube or Isetan department store food floors) for convenience. |\n| Afternoon | Souvenir Shopping & Departure Prep | Varies | Final shopping at the station or revisiting a favorite neighborhood. Travel to the airport/next destination. |\n\n---\n\n## Estimated Budget Outline (Per Person, Mid-Range Travel)\n\nThis estimate covers daily activities, local transport, mid-range dining, and entry fees. **It excludes international flights and accommodation costs.**\n\n| Expense Category | Estimated Daily Cost (JPY) | Estimated 7-Day Total (JPY) | Estimated 7-Day Total (USD)* |\n| :--- | :--- | :--- | :--- |\n| **Accommodation** | 12,000 - 20,000 | 84,000 - 140,000 | $560 - $930 |\n| **Food & Drink** | 6,000 - 10,000 | 42,000 - 70,000 | $280 - $470 |\n| **Entry Fees/Activities** | 2,000 - 3,500 | 14,000 - 24,500 | $95 - $165 |\n| **Local Transport** | 1,000 - 1,500 | 7,000 - 10,500 | $45 - $70 |\n| **Miscellaneous/Buffer** | 1,000 | 7,000 | $45 |\n| **TOTAL ESTIMATE (Excl. Flights)** | **~22,000 - 35,000 JPY** | **~154,000 - 245,000 JPY** | **~$1,025 - $1,630 USD** |\n\n*\\*Note: USD conversion is approximate and based on exchange rates around 1 USD = 150 JPY.*\n\n### Key Budget Notes:\n\n1.  **Accommodation:** Prices vary wildly. Traditional *Ryokans* or boutique hotels will be at the higher end, while business hotels or hostels will be lower.\n2.  **Dining:** The budget allows for one mid-range dinner (e.g., $40 USD) and simpler lunches/breakfasts. High-end *Kaiseki* meals can easily add an extra $100–$200 per person.\n3.  **Transportation Pass:** If you plan 3 or more bus rides per day, the **Kyoto City Bus One-Day Pass (approx. 700 JPY)** is cost-effective. For this itinerary, mixing buses, subway, and JR lines might make individual tickets or an ICOCA/Suica card more flexible."
+  },
+  "events": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "Plan a 7-day cultural deep-dive travel experience in Kyoto focusing on temples, traditions, tea ceremonies, and nature."
+          }
+        ],
+        "role": "user"
+      },
+      "invocationId": "e-f2ef503f-ae2d-4fe2-b8d4-40c7327c0051",
+      "author": "user",
+      "actions": {
+        "stateDelta": {},
+        "artifactDelta": {},
+        "requestedAuthConfigs": {},
+        "requestedToolConfirmations": {}
+      },
+      "id": "bb794788-aff8-49e7-bf2a-4aca56bd8e6b",
+      "timestamp": 1763640594.995979
+    },
+    {
+      "modelVersion": "gemini-2.5-flash-lite-preview-09-2025",
+      "content": {
+        "parts": [
+          {
+            "text": "Here is a comprehensive plan for your 7-day cultural deep-dive in Kyoto, focusing on temples, traditions, tea ceremonies, and nature.\n\n### Kyoto Cultural Deep-Dive: 7-Day Itinerary Outline\n\n**Best Time to Visit & Weather:**\nThe best times to visit Kyoto are in **Spring (March to May)** for the cherry blossoms and **Autumn (October to November)** for the fall foliage, as the weather is generally temperate and comfortable for sightseeing. Summer (June to August) is hot and humid, while winter (December to February) is cold.\n\n---\n\n### Day-by-Day Cultural Itinerary\n\n| Day | Focus Area | Morning Activity | Afternoon Activity | Evening Activity |\n| :--- | :--- | :--- | :--- | :--- |\n| **1** | **Arrival & Eastern Kyoto (Higashiyama)** | Arrive in Kyoto, check into accommodation. | **Kiyomizu-dera Temple:** Explore this iconic, historic World Heritage site, famous for its wooden veranda. | Stroll through the historic **Sannenzaka & Ninenzaka** streets, perhaps enjoying a traditional sweet. |\n| **2** | **Zen & Tea Tradition** | **Tea Ceremony Experience:** Participate in a traditional Japanese tea ceremony. Look for one in the Gion or Higashiyama areas. | **Kodai-ji Temple:** Visit this Zen Buddhist temple, often beautiful during fall foliage viewing. | Explore **Gion District:** Look respectfully for *geiko* (Kyoto term for geisha) and *maiko* (apprentice geisha) on their way to engagements. |\n| **3** | **Golden Beauty & Rock Gardens** | **Kinkaku-ji (Golden Pavilion):** Visit this stunning UNESCO World Heritage site covered in gold leaf. | **Ryoan-ji Temple:** Contemplate the famous and enigmatic rock garden at this Zen temple. | **Nishijin Textile Center** (Optional): Observe traditional weaving demonstrations. |\n| **4** | **Southern Nature & Shrines** | **Fushimi Inari Taisha Shrine:** Hike the mountain path lined with thousands of vibrant red *torii* gates. | Explore the quieter paths further up Mt. Inari for a more nature-focused experience. | Dinner near your accommodation or try a local *izakaya*. |\n| **5** | **Arashiyama Nature & Zen** | **Tenryū-ji Temple:** Explore this major Zen temple and its celebrated landscape garden, a UNESCO site. | **Arashiyama Bamboo Grove:** Stroll through the towering bamboo stalks, a highlight of Kyoto's nature. | Relaxing evening, perhaps visiting a local *onsen* (hot spring) if available near your lodging. |\n| **6** | **Imperial History & Craft** | **Nijo-jo Castle:** Tour the former residence of the Tokugawa Shogunate, known for its \"nightingale floors.\" | **Northern Kyoto Temple Visit:** Visit **Daitoku-ji** complex for a more secluded Zen experience with beautiful rock gardens. | **Philosopher's Path (Tetsugaku-no-michi):** An evening walk along this path (best in Spring/Autumn, but tranquil year-round). |\n| **7** | **Deep Culture & Departure** | **Sanjūsangen-dō Temple:** See the impressive hall containing 1,000 life-sized statues of Kannon. | Final souvenir shopping or revisiting a favorite quiet spot like **Honen-in Temple**. | Depart from Kyoto. |\n\n---\n\n### Local Culture, Customs, and Etiquette Tips\n\n*   **Respect Sacred Spaces:** When visiting temples and shrines, show respect by keeping your voice down and avoiding running. Do not touch or lean on ancient wooden structures.\n*   **Temple Etiquette:** Remove outdoor shoes before entering temple buildings where required (often in areas with *tatami* flooring). Follow photography restrictions; do not use flash or take pictures where prohibited. Utilize the purification fountain (*temizuya*) correctly before entering.\n*   **Geisha Etiquette:** If you see a *geiko* or *maiko* in Gion, do not stop them, follow them, or touch their kimono. Take photos from a respectful distance, if at all.\n*   **Noise and Public Conduct:** Keep your voice down in public areas, especially on public transportation and in residential areas like Gion.\n*   **Eating/Walking:** Avoid eating or drinking while walking in crowded tourist areas or within shrines and temples, as this is prohibited in many places.\n*   **Tipping:** Tipping is **not** customary in Japan; a simple \"thank you\" is sufficient appreciation for good service.\n*   **Trash:** Kyoto has few public trash bins, so carry a small bag for your waste and dispose of it properly later.\n\n---\n\n### Transportation Options\n\nKyoto has an excellent and efficient public transportation system.\n\n*   **Buses:** The primary way to reach many temples and tourist sites, as the subway network is less extensive. Be prepared for congestion during peak hours. Consider purchasing a **Kyoto City Bus One-Day Pass** if you plan multiple bus rides.\n*   **Subway:** Useful for north-south and east-west travel across the city center.\n*   **Trains (JR and Private Lines):** Essential for reaching areas like Arashiyama (JR Sagano Line) and Fushimi Inari (JR Nara Line).\n*   **Walking/Cycling:** Many districts, like Higashiyama and Arashiyama, are best explored on foot. Cycling is also a great option in flatter areas.\n*   **Etiquette on Transit:** Always queue when waiting for buses or trains. Keep noise to a minimum on public transport.\n\n---\n\n### Safety Considerations and Travel Requirements\n\n*   **General Safety:** Kyoto is considered one of the safest cities in the world, with low crime rates. It is generally safe to walk around at night, even as a solo traveler.\n*   **Petty Crime:** While rare, remain vigilant about your belongings in crowded areas like Nishiki Market or during festivals to guard against pickpocketing.\n*   **Emergency Numbers:**\n    *   Police: **110**\n    *   Fire/Ambulance: **119**\n*   **Wildlife:** Be aware that Asiatic black bears have occasionally been sighted in areas near mountains, especially early morning or dusk. Take precautions if venturing into forested or mountainous areas.\n*   **Requirements:** As part of Japan, standard entry requirements (passport, visa if necessary) apply. Always check the latest official travel advisories before departure."
+          }
+        ],
+        "role": "model"
+      },
+      "groundingMetadata": {
+        "groundingChunks": [
+          {
+            "web": {
+              "title": "insidekyoto.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2m9PeFCmDdCJuC-nq875RNpTWjQu4gnRuaeWibbGXBIDJ2Tp0u_yayal0iW2FEGtcfIZMUpr_yM1qwu_heLz_7a0ICb_NNr87_29WhmlF0uCT0Pw5JgpdDY691x10y1-5Vkq4mmrO02GGbECbHsVx8CKMIEJf2GBr"
+            }
+          },
+          {
+            "web": {
+              "title": "spiritjapan.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX2G8fSD_SjkasNQybSdp_rJzWvvxrMkKzukBXwQzyaDejjcXpFYRTRcxSMH2ZgT1wOVpCoV4j0D_JW7hewvjFlyedOwvacKrpA2Pi4CXzc7dO3Yp6UC8AyZIvwGSyjUzlckdrTpW86akR02vDFI33e9jJN6gnKkZy1SdqJoBokg7L1n1MfTj3l3Aq45zHmqW-6B0Qkch5kBrYqg1frynBXuw-PEobVQquC4O2"
+            }
+          },
+          {
+            "web": {
+              "title": "japanhighlights.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMCgcv4XJzemUVfhcEDEmr2ilFmMfpUY6vcba3qdq4I0Qh5Ut_VSyBC_ZwDpZ8Spk4zVRJeY37wzwpxFQCe6yKuI2ic-QvvOPyUUZevgjNIFQeMYXyN9YRoOMItYNwMcxRUo9eFYISb2ZTCQTPY8Soqboh0ldMAOO3"
+            }
+          },
+          {
+            "web": {
+              "title": "lonelyplanet.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeltMRM8dtzdXniWwfYP-F7Vjd0APRF5xNVdrUGI6siIsQEBFQhGVomoSqq70qQpzBwkdaBuoHxzTEXAMlOUJAgKMIqSZhfuDMMA9L_fxDurNasjNz7q9MYPHEJ2bw6gnFCKKQbNsCIdmwWMi0h7x4Ny_R3yad"
+            }
+          },
+          {
+            "web": {
+              "title": "insidekyoto.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9K9GEqdaL6IBDy3E9G44YV0QhQ3g7AlutXfNGvgKe08DpJbN9eKEJyvsIW6ZIm_P6_a1MJZjGkCvcbVVnDaNDI6KsMFdJvNZTuD8JEtk2drnQbZdivLJLPAGEDirURVA6hFYum8cy33ihNGOlAA5Akz16BqweIgY="
+            }
+          },
+          {
+            "web": {
+              "title": "bontraveler.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3lTEb6csRqgjnqAVCWoHi3CmuBlKK_B5q99hpjMEt5snEn5iyHip7omEqZayxoy3lDKlY7Uk2GP8ZhJOwbGbOBhp1xDjn4pu_MjEZWFXqwjFwB6R4YCiyBhhhU34vRO2HtQCvy1uEPWjw5PIMIzDeOqebKZddkXNKig=="
+            }
+          },
+          {
+            "web": {
+              "title": "neverendingvoyage.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8TuX2SHhvZee0jV5n0-bquqG9RIl5MMgJfcVttQvg6quHhaInIsxg6q1etdkWx5ilovjwfymv9bMsExTkYax1wbiaBtatUZ3wR46lJNF2MOy1v7IyhvzoAeukCHtdrM10ktHylTnjnEVksDhJcI78DVokxTqAzpupOxUzretv1x5BYA=="
+            }
+          },
+          {
+            "web": {
+              "title": "timetravelturtle.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFNvhXgaeNzEiI8Q2oDZfqS9ySOOCN8IvEB_Ois1ka3-AqLPwCoILTZM7RDJDsp0OXHxT-GSUiKq_xMKy_1vN6E9DogvOc2-ZE8rfO9UgplPvBaglUM3S9Qk58L231_OvPNxrgb3R4j9sEq2ThLkjckg=="
+            }
+          },
+          {
+            "web": {
+              "title": "santorinidave.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEdkkuDlagJr1492IfZlBmBqaXmZeoh9C2wO7y6Aig_AX7SzltHfJispERReBm_UPjlbafPsr2ARgWvOgisIP1L8IcXNrGw1T4BtqaMZegOn874Z7YLwChNRW_PkR_pe01J64TXtY3EHimEz3N"
+            }
+          },
+          {
+            "web": {
+              "title": "lonelyplanet.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE47h35xPJbEls16N77QZTs8BY1VnyNFyQqCofVoxfZI5bGFMMdLOnPAbMAVnnMQhPywyAF_L1Au8zUPJqJn85X6pnCcrna3MyPYJWkoY7rOoWdzpdKfD5PFabOhXHC1iSNzYVzloEorZ6m6pE3wL51PKLSk7ZkjrCy"
+            }
+          },
+          {
+            "web": {
+              "title": "japantravelhubs.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZqmhyiSoga9rQhpIXQK7kD9ZhpoJOJGpvvz4Tk147hq2oxMPbUZwnmh5iOuZ2gA3zBum4oomfAM4KOarm-6qL7jxku-x2cpyxnvRyNg8KzEVdTNKm0k4R984ANA3doethhjfPZ5Sx_6LWQBCLF5rNXV_PPMVQryQJMHZw3L3TpTGWG34tzi-yIfpplQ2v"
+            }
+          },
+          {
+            "web": {
+              "title": "sjmcjapan.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6hZkSnyCCJAgij7CkNYVWFjdouPLMftjgWd57_9nA5ASAJepmfidNTGWAWHlZfKEfAiVbss21_DHCr0TxUVdJBoa0VvrnIqbT9GCAnNXLmv43hX_Fn-oeG0Ne8ka4vzegyAK6nQ5B22Zfcb7X1AbaJ0XVJUuk-mFsOIcVBO7LGeKcl0GM1NfiFTsdjUEYVVLQErf9JvmHNKB2SJlMZA1KjzOngYu1"
+            }
+          },
+          {
+            "web": {
+              "title": "japanandmore.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpkCmpJbAYNWGjgDvMKtGQ6aJccrGOohZeGE_0APXRryBBJnTkl-kswgRX4ZJepPrzjOVuHnyFTIvM1mNdpxJ96npqNI25cP8uTEfKVDZoZOv9jsmoILUWh0YlV84TTBkB6lj2g4BhS4Mpmbd9c139fADMOkp-OMQlajd3KLI6v-MrqR8="
+            }
+          },
+          {
+            "web": {
+              "title": "kyototourism.org",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFA6qUeYlacpazUfVnq7MZc5axvT85b-FmMk02gJhWn8UnTjTDFqe80i_KykW7mazAt9GtiggJwCnlro5Q8poPYhf9boKoPy2BbRaWeFkQKuk0mcnxrUYULBA4mOVRmct_YNt5nw=="
+            }
+          },
+          {
+            "web": {
+              "title": "japan.travel",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEXv7E-43jNrWtbd7stTManPMKmGOkHIeWK9ncmI3YULlE4c9j3yQ2-6xG9fMR1MgjxwUfohWLDLAq6t2_3Ce2jSr7NujLewoAx7TpxgpXQKExkrIs1K0TRIeMoNjDNSV4NMGdBJShik8XsocOofAkPmgs_mkNhYINtZsWbtc4ecN_qhzYpCydUw00o57LfSFQdlfjF96BhA=="
+            }
+          },
+          {
+            "web": {
+              "title": "lonelyplanet.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNCNWWvsVLcU_BF60UhEcIkcgwD82_aHh9i-mn7CR73iaZivlZ6F-9QwN5ZgEQ05PatdsLVfShDyNXcinhoEZ27u0Z82_qotrMMCnq0JEZ3LwxdImGGM8M6XJwuR7SvxoxKBxpSgPpGyoDxDb7wDq5_LzZOljzm5b0WzttOWp3eJ2gOIFy1SyaVQ=="
+            }
+          },
+          {
+            "web": {
+              "title": "qeepl.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5Za3880UW7bSAEqfl4Yij6361yRHSG0gPLXv8vBXMmepKjmozGGCCl9qAWCLHTtOmukKelMIGS4l-vje1ZqJFHThiIRA7sKVjMbkG5tzwBjlr61PF-1FfqppRGeZ-SL1kOyVKLi2kA4anGwEnqFYHfNMIB44KzitN0ui9iUpSrgUWgYACg9AFrMVZ"
+            }
+          },
+          {
+            "web": {
+              "title": "kyotoglobetrotter.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHARk_oUS1gdWOqPRBv16ICpQoEtCGCwU5y5fB10dXtU8eagYTLOJl8hVBNP-pef3PB1Ae4RDABa5HUljXVUdaiqTgPHaOnXma3TzH0CLIf0xig72xU34CqwX3gJPuTtaGRvqzx-1bNULr-DQ=="
+            }
+          },
+          {
+            "web": {
+              "title": "navitime.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElFkW4Yw0ulUGEQg-Fb1eokIsgJYGL3-dCs3AC4-Rl28wlexWq17sF58Pw4UU2RJaAc7Zv90K7tnlo2OkwZkCfrZx7kEPjoPpybgLWtp79EYrMFcyi_SEs9C6OPEGnBmwRgAFQzSJf59wBmfLf"
+            }
+          },
+          {
+            "web": {
+              "title": "westjr.co.jp",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz4dYyrlw32a20kS0PastzxA596j7mXEO_8eQUcInI0587PwCAURtO1q5tj_kcfu3VmkbUmq_0pKs2eOJHQY-hugdLt-iw2CorVf125hbPMHnmJzmKP9rNVjMUbkKxHJ603GTM60UJJWV1_MBl_V-kHk_yO5DDwruxW63DstPHXdIHiCVGayg="
+            }
+          },
+          {
+            "web": {
+              "title": "gettransfer.com",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpwvEtnJJNO-8dYuVSAA66cCutcIW256j42x9_Clc4insIo6mc7GSeB5OkxUTvB5c9lWdm8Vn7UaomjxevK3R4SZbQB4rDeCn-qH72hJJ4sX-qV93mjK0Ma_uPoMR3qf6RhKPExGHLRwHjJKlfAvJfaHL3NV8yWHmkb9-LLOiS0VKPbiITT1XHf0v6WuU="
+            }
+          },
+          {
+            "web": {
+              "title": "kyoto.travel",
+              "uri": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9UkOn_qzI8hXypokg_phbvFzJWtzgUCXc-nabsmkGd90w-4DAUd3ux00AtoAY3FtpU0opMlo0LHy4ZjQi77LWThwdcR5FUsALeiVV8mVLl4_rJjTRlOcAj00_RnCH1A=="
+            }
+          }
+        ],
+        "groundingSupports": [
+          {
+            "groundingChunkIndices": [
+              0,
+              1,
+              2
+            ],
+            "segment": {
+              "endIndex": 440,
+              "startIndex": 190,
+              "text": "**Best Time to Visit & Weather:**\nThe best times to visit Kyoto are in **Spring (March to May)** for the cherry blossoms and **Autumn (October to November)** for the fall foliage, as the weather is generally temperate and comfortable for sightseeing."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              0,
+              1
+            ],
+            "segment": {
+              "endIndex": 527,
+              "startIndex": 441,
+              "text": "Summer (June to August) is hot and humid, while winter (December to February) is cold."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              3,
+              4
+            ],
+            "segment": {
+              "endIndex": 892,
+              "startIndex": 783,
+              "text": "| **Kiyomizu-dera Temple:** Explore this iconic, historic World Heritage site, famous for its wooden veranda."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              5
+            ],
+            "segment": {
+              "endIndex": 1262,
+              "startIndex": 1163,
+              "text": "| **Kodai-ji Temple:** Visit this Zen Buddhist temple, often beautiful during fall foliage viewing."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              5,
+              3,
+              4,
+              6
+            ],
+            "segment": {
+              "endIndex": 1556,
+              "startIndex": 1407,
+              "text": "|\n| **3** | **Golden Beauty & Rock Gardens** | **Kinkaku-ji (Golden Pavilion):** Visit this stunning UNESCO World Heritage site covered in gold leaf."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              7,
+              4
+            ],
+            "segment": {
+              "endIndex": 1648,
+              "startIndex": 1557,
+              "text": "| **Ryoan-ji Temple:** Contemplate the famous and enigmatic rock garden at this Zen temple."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              8,
+              5,
+              9
+            ],
+            "segment": {
+              "endIndex": 1885,
+              "startIndex": 1735,
+              "text": "|\n| **4** | **Southern Nature & Shrines** | **Fushimi Inari Taisha Shrine:** Hike the mountain path lined with thousands of vibrant red *torii* gates."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              3,
+              4,
+              6
+            ],
+            "segment": {
+              "endIndex": 2178,
+              "startIndex": 2032,
+              "text": "|\n| **5** | **Arashiyama Nature & Zen** | **Tenryū-ji Temple:** Explore this major Zen temple and its celebrated landscape garden, a UNESCO site."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              9
+            ],
+            "segment": {
+              "endIndex": 2283,
+              "startIndex": 2179,
+              "text": "| **Arashiyama Bamboo Grove:** Stroll through the towering bamboo stalks, a highlight of Kyoto's nature."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              7
+            ],
+            "segment": {
+              "endIndex": 2533,
+              "startIndex": 2382,
+              "text": "|\n| **6** | **Imperial History & Craft** | **Nijo-jo Castle:** Tour the former residence of the Tokugawa Shogunate, known for its \"nightingale floors.\""
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              3
+            ],
+            "segment": {
+              "endIndex": 2661,
+              "startIndex": 2534,
+              "text": "| **Northern Kyoto Temple Visit:** Visit **Daitoku-ji** complex for a more secluded Zen experience with beautiful rock gardens."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              3
+            ],
+            "segment": {
+              "endIndex": 2933,
+              "startIndex": 2791,
+              "text": "|\n| **7** | **Deep Culture & Departure** | **Sanjūsangen-dō Temple:** See the impressive hall containing 1,000 life-sized statues of Kannon."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              5
+            ],
+            "segment": {
+              "endIndex": 3021,
+              "startIndex": 2934,
+              "text": "| Final souvenir shopping or revisiting a favorite quiet spot like **Honen-in Temple**."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              10,
+              11
+            ],
+            "segment": {
+              "endIndex": 3226,
+              "startIndex": 3099,
+              "text": "*   **Respect Sacred Spaces:** When visiting temples and shrines, show respect by keeping your voice down and avoiding running."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              12
+            ],
+            "segment": {
+              "endIndex": 3277,
+              "startIndex": 3227,
+              "text": "Do not touch or lean on ancient wooden structures."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              13,
+              11
+            ],
+            "segment": {
+              "endIndex": 3413,
+              "startIndex": 3278,
+              "text": "*   **Temple Etiquette:** Remove outdoor shoes before entering temple buildings where required (often in areas with *tatami* flooring)."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              10,
+              11,
+              14
+            ],
+            "segment": {
+              "endIndex": 3498,
+              "startIndex": 3414,
+              "text": "Follow photography restrictions; do not use flash or take pictures where prohibited."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              11
+            ],
+            "segment": {
+              "endIndex": 3572,
+              "startIndex": 3499,
+              "text": "Utilize the purification fountain (*temizuya*) correctly before entering."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              12,
+              10,
+              15
+            ],
+            "segment": {
+              "endIndex": 3744,
+              "startIndex": 3694,
+              "text": "Take photos from a respectful distance, if at all."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              12,
+              10
+            ],
+            "segment": {
+              "endIndex": 3888,
+              "startIndex": 3745,
+              "text": "*   **Noise and Public Conduct:** Keep your voice down in public areas, especially on public transportation and in residential areas like Gion."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              10,
+              14
+            ],
+            "segment": {
+              "endIndex": 4045,
+              "startIndex": 3889,
+              "text": "*   **Eating/Walking:** Avoid eating or drinking while walking in crowded tourist areas or within shrines and temples, as this is prohibited in many places."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              13
+            ],
+            "segment": {
+              "endIndex": 4167,
+              "startIndex": 4046,
+              "text": "*   **Tipping:** Tipping is **not** customary in Japan; a simple \"thank you\" is sufficient appreciation for good service."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              10,
+              13
+            ],
+            "segment": {
+              "endIndex": 4285,
+              "startIndex": 4168,
+              "text": "*   **Trash:** Kyoto has few public trash bins, so carry a small bag for your waste and dispose of it properly later."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              16
+            ],
+            "segment": {
+              "endIndex": 4386,
+              "startIndex": 4320,
+              "text": "Kyoto has an excellent and efficient public transportation system."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              17
+            ],
+            "segment": {
+              "endIndex": 4546,
+              "startIndex": 4501,
+              "text": "Be prepared for congestion during peak hours."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              18
+            ],
+            "segment": {
+              "endIndex": 4716,
+              "startIndex": 4633,
+              "text": "*   **Subway:** Useful for north-south and east-west travel across the city center."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              18,
+              19
+            ],
+            "segment": {
+              "endIndex": 4851,
+              "startIndex": 4717,
+              "text": "*   **Trains (JR and Private Lines):** Essential for reaching areas like Arashiyama (JR Sagano Line) and Fushimi Inari (JR Nara Line)."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              9
+            ],
+            "segment": {
+              "endIndex": 5001,
+              "startIndex": 4953,
+              "text": "Cycling is also a great option in flatter areas."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              12,
+              13
+            ],
+            "segment": {
+              "endIndex": 5078,
+              "startIndex": 5002,
+              "text": "*   **Etiquette on Transit:** Always queue when waiting for buses or trains."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              10
+            ],
+            "segment": {
+              "endIndex": 5123,
+              "startIndex": 5079,
+              "text": "Keep noise to a minimum on public transport."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              20,
+              15,
+              16
+            ],
+            "segment": {
+              "endIndex": 5285,
+              "startIndex": 5181,
+              "text": "*   **General Safety:** Kyoto is considered one of the safest cities in the world, with low crime rates."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              15
+            ],
+            "segment": {
+              "endIndex": 5356,
+              "startIndex": 5286,
+              "text": "It is generally safe to walk around at night, even as a solo traveler."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              17,
+              16
+            ],
+            "segment": {
+              "endIndex": 5516,
+              "startIndex": 5357,
+              "text": "*   **Petty Crime:** While rare, remain vigilant about your belongings in crowded areas like Nishiki Market or during festivals to guard against pickpocketing."
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              20,
+              15
+            ],
+            "segment": {
+              "endIndex": 5567,
+              "startIndex": 5517,
+              "text": "*   **Emergency Numbers:**\n    *   Police: **110**"
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              15
+            ],
+            "segment": {
+              "endIndex": 5599,
+              "startIndex": 5572,
+              "text": "*   Fire/Ambulance: **119**"
+            }
+          },
+          {
+            "groundingChunkIndices": [
+              21
+            ],
+            "segment": {
+              "endIndex": 5807,
+              "startIndex": 5742,
+              "text": "Take precautions if venturing into forested or mountainous areas."
+            }
+          }
+        ],
+        "searchEntryPoint": {
+          "renderedContent": "<style>\n.container {\n  align-items: center;\n  border-radius: 8px;\n  display: flex;\n  font-family: Google Sans, Roboto, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  padding: 8px 12px;\n}\n.chip {\n  display: inline-block;\n  border: solid 1px;\n  border-radius: 16px;\n  min-width: 14px;\n  padding: 5px 16px;\n  text-align: center;\n  user-select: none;\n  margin: 0 8px;\n  -webkit-tap-highlight-color: transparent;\n}\n.carousel {\n  overflow: auto;\n  scrollbar-width: none;\n  white-space: nowrap;\n  margin-right: -12px;\n}\n.headline {\n  display: flex;\n  margin-right: 4px;\n}\n.gradient-container {\n  position: relative;\n}\n.gradient {\n  position: absolute;\n  transform: translate(3px, -9px);\n  height: 36px;\n  width: 9px;\n}\n@media (prefers-color-scheme: light) {\n  .container {\n    background-color: #fafafa;\n    box-shadow: 0 0 0 1px #0000000f;\n  }\n  .headline-label {\n    color: #1f1f1f;\n  }\n  .chip {\n    background-color: #ffffff;\n    border-color: #d2d2d2;\n    color: #5e5e5e;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #f2f2f2;\n  }\n  .chip:focus {\n    background-color: #f2f2f2;\n  }\n  .chip:active {\n    background-color: #d8d8d8;\n    border-color: #b6b6b6;\n  }\n  .logo-dark {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #fafafa 15%, #fafafa00 100%);\n  }\n}\n@media (prefers-color-scheme: dark) {\n  .container {\n    background-color: #1f1f1f;\n    box-shadow: 0 0 0 1px #ffffff26;\n  }\n  .headline-label {\n    color: #fff;\n  }\n  .chip {\n    background-color: #2c2c2c;\n    border-color: #3c4043;\n    color: #fff;\n    text-decoration: none;\n  }\n  .chip:hover {\n    background-color: #353536;\n  }\n  .chip:focus {\n    background-color: #353536;\n  }\n  .chip:active {\n    background-color: #464849;\n    border-color: #53575b;\n  }\n  .logo-light {\n    display: none;\n  }\n  .gradient {\n    background: linear-gradient(90deg, #1f1f1f 15%, #1f1f1f00 100%);\n  }\n}\n</style>\n<div class=\"container\">\n  <div class=\"headline\">\n    <svg class=\"logo-light\" width=\"18\" height=\"18\" viewBox=\"9 9 35 35\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M42.8622 27.0064C42.8622 25.7839 42.7525 24.6084 42.5487 23.4799H26.3109V30.1568H35.5897C35.1821 32.3041 33.9596 34.1222 32.1258 35.3448V39.6864H37.7213C40.9814 36.677 42.8622 32.2571 42.8622 27.0064V27.0064Z\" fill=\"#4285F4\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 43.8555C30.9659 43.8555 34.8687 42.3195 37.7213 39.6863L32.1258 35.3447C30.5898 36.3792 28.6306 37.0061 26.3109 37.0061C21.8282 37.0061 18.0195 33.9811 16.6559 29.906H10.9194V34.3573C13.7563 39.9841 19.5712 43.8555 26.3109 43.8555V43.8555Z\" fill=\"#34A853\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M16.6559 29.8904C16.3111 28.8559 16.1074 27.7588 16.1074 26.6146C16.1074 25.4704 16.3111 24.3733 16.6559 23.3388V18.8875H10.9194C9.74388 21.2072 9.06992 23.8247 9.06992 26.6146C9.06992 29.4045 9.74388 32.022 10.9194 34.3417L15.3864 30.8621L16.6559 29.8904V29.8904Z\" fill=\"#FBBC05\"/>\n      <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.3109 16.2386C28.85 16.2386 31.107 17.1164 32.9095 18.8091L37.8466 13.8719C34.853 11.082 30.9659 9.3736 26.3109 9.3736C19.5712 9.3736 13.7563 13.245 10.9194 18.8875L16.6559 23.3388C18.0195 19.2636 21.8282 16.2386 26.3109 16.2386V16.2386Z\" fill=\"#EA4335\"/>\n    </svg>\n    <svg class=\"logo-dark\" width=\"18\" height=\"18\" viewBox=\"0 0 48 48\" xmlns=\"http://www.w3.org/2000/svg\">\n      <circle cx=\"24\" cy=\"23\" fill=\"#FFF\" r=\"22\"/>\n      <path d=\"M33.76 34.26c2.75-2.56 4.49-6.37 4.49-11.26 0-.89-.08-1.84-.29-3H24.01v5.99h8.03c-.4 2.02-1.5 3.56-3.07 4.56v.75l3.91 2.97h.88z\" fill=\"#4285F4\"/>\n      <path d=\"M15.58 25.77A8.845 8.845 0 0 0 24 31.86c1.92 0 3.62-.46 4.97-1.31l4.79 3.71C31.14 36.7 27.65 38 24 38c-5.93 0-11.01-3.4-13.45-8.36l.17-1.01 4.06-2.85h.8z\" fill=\"#34A853\"/>\n      <path d=\"M15.59 20.21a8.864 8.864 0 0 0 0 5.58l-5.03 3.86c-.98-2-1.53-4.25-1.53-6.64 0-2.39.55-4.64 1.53-6.64l1-.22 3.81 2.98.22 1.08z\" fill=\"#FBBC05\"/>\n      <path d=\"M24 14.14c2.11 0 4.02.75 5.52 1.98l4.36-4.36C31.22 9.43 27.81 8 24 8c-5.93 0-11.01 3.4-13.45 8.36l5.03 3.85A8.86 8.86 0 0 1 24 14.14z\" fill=\"#EA4335\"/>\n    </svg>\n    <div class=\"gradient-container\"><div class=\"gradient\"></div></div>\n  </div>\n  <div class=\"carousel\">\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEG-m6Qk5bwLrET-Fbjm9kqIZWp8HoV2GmyjrTLLPGjSvIV5MYl8Z_IJrLMnauoyTATRsfuEkVE_e9JVzSVHJsleyYV5d9E3bk-sy1AelePziEQsQ55fjN4JjxxXIOvK4OpC2HRCVhoLfLUxl1XMqUmpjeyTTFZH62JMXqN2aLxiMHSCBcfhjC2BL6da4MmkOOSM9Sryak_sWWl1lyYWd8sCbg=\">transportation options in Kyoto</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW5bL_aZ3iFbfkxCTGGCk-Ct5qTiNNkGEcUMlFQqXax3txrwQTWiu8N9p20WqCRo23qnj3bvN8r0hKAF5Y8ydDp38Nz68VvKRxtbvCTBBxwLNGHW5op70lsy7yjidVxT9En4C5rCGWhgURxGlSIM6nROPpz547Rv_cEgxQ789W1N1TwY4qlyzLI6_Tti2Tky2n6c3pYbapuws90nCucpY9acJ6E2GlaKo1UmJIURIvGWU=\">Kyoto local customs and etiquette for tourists</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuKIa6zPgrplmVs6L2Ngoqe254AhIpQgIvgzRDSA64ppzMV41r_aJS-zXEttsRKvA9EvCMvx54dpHdmA2ZBheuaiC-YcYQplPQKZUjeFHQF2hvPpRQ0ejXhU-a__Y7AVuA1FU46zv51gC9BdIKIuMw_wL95hjyz9PhTuFg-HZ92u8j97o8k4gU3cwLAwVrtv0AhRI4yWijCjVjQSJBsjyKSvtkziy9vUDHfELL\">best time to visit Kyoto weather patterns</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHfqJ5NBTyzwksYmpCJqEhEMnbcgjHq6NR_LOgI6glZROEJfPEtUAPG61jrTZY09_F6MNIEfqVkScG4OLQxs6r_HdYRQrP_umuUFDbwGetCPjEvHWCRdrN3aICNI2I3uyx3kyAGSdoAe8pSJKNwFmzH3TMCsaL4UOW1bsnIvnUvWOicDJMGwrNvbYxkAX1QPdvDwJBULSQlLz3r2bO2McZmdl1xlQ_hglDjcA==\">top temples and cultural sites in Kyoto</a>\n    <a class=\"chip\" href=\"https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHDzeMEvZmBMsIcDrKplJNgU2ccEXjdAvvKdQKpMvGgEVoKGusEcEUfCJwc6kB9LJQh5oKFdBuhTsuQ0W6q91jxKfHMiGqPO58bek23DgejPIIRHkXsvBHCidhh3In69vAFbyqufiSEdasv-R2Hz_EXvJnbZiS1vjnLcvAZ8ccezACUqX3-Fnkaszkxl2OWr_s775t13SwsoXk-RaRur0fAm9PkEfQDQ==\">Kyoto travel safety and requirements</a>\n  </div>\n</div>\n"
+        },
+        "webSearchQueries": [
+          "best time to visit Kyoto weather patterns",
+          "top temples and cultural sites in Kyoto",
+          "Kyoto local customs and etiquette for tourists",
+          "transportation options in Kyoto",
+          "Kyoto travel safety and requirements"
+        ]
+      },
+      "finishReason": "STOP",
+      "usageMetadata": {
+        "candidatesTokenCount": 1454,
+        "promptTokenCount": 142,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 142
+          }
+        ],
+        "toolUsePromptTokenCount": 142,
+        "toolUsePromptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 142
+          }
+        ],
+        "totalTokenCount": 1738
+      },
+      "invocationId": "e-f2ef503f-ae2d-4fe2-b8d4-40c7327c0051",
+      "author": "DestinationResearchAgent",
+      "actions": {
+        "stateDelta": {
+          "destination_research": "Here is a comprehensive plan for your 7-day cultural deep-dive in Kyoto, focusing on temples, traditions, tea ceremonies, and nature.\n\n### Kyoto Cultural Deep-Dive: 7-Day Itinerary Outline\n\n**Best Time to Visit & Weather:**\nThe best times to visit Kyoto are in **Spring (March to May)** for the cherry blossoms and **Autumn (October to November)** for the fall foliage, as the weather is generally temperate and comfortable for sightseeing. Summer (June to August) is hot and humid, while winter (December to February) is cold.\n\n---\n\n### Day-by-Day Cultural Itinerary\n\n| Day | Focus Area | Morning Activity | Afternoon Activity | Evening Activity |\n| :--- | :--- | :--- | :--- | :--- |\n| **1** | **Arrival & Eastern Kyoto (Higashiyama)** | Arrive in Kyoto, check into accommodation. | **Kiyomizu-dera Temple:** Explore this iconic, historic World Heritage site, famous for its wooden veranda. | Stroll through the historic **Sannenzaka & Ninenzaka** streets, perhaps enjoying a traditional sweet. |\n| **2** | **Zen & Tea Tradition** | **Tea Ceremony Experience:** Participate in a traditional Japanese tea ceremony. Look for one in the Gion or Higashiyama areas. | **Kodai-ji Temple:** Visit this Zen Buddhist temple, often beautiful during fall foliage viewing. | Explore **Gion District:** Look respectfully for *geiko* (Kyoto term for geisha) and *maiko* (apprentice geisha) on their way to engagements. |\n| **3** | **Golden Beauty & Rock Gardens** | **Kinkaku-ji (Golden Pavilion):** Visit this stunning UNESCO World Heritage site covered in gold leaf. | **Ryoan-ji Temple:** Contemplate the famous and enigmatic rock garden at this Zen temple. | **Nishijin Textile Center** (Optional): Observe traditional weaving demonstrations. |\n| **4** | **Southern Nature & Shrines** | **Fushimi Inari Taisha Shrine:** Hike the mountain path lined with thousands of vibrant red *torii* gates. | Explore the quieter paths further up Mt. Inari for a more nature-focused experience. | Dinner near your accommodation or try a local *izakaya*. |\n| **5** | **Arashiyama Nature & Zen** | **Tenryū-ji Temple:** Explore this major Zen temple and its celebrated landscape garden, a UNESCO site. | **Arashiyama Bamboo Grove:** Stroll through the towering bamboo stalks, a highlight of Kyoto's nature. | Relaxing evening, perhaps visiting a local *onsen* (hot spring) if available near your lodging. |\n| **6** | **Imperial History & Craft** | **Nijo-jo Castle:** Tour the former residence of the Tokugawa Shogunate, known for its \"nightingale floors.\" | **Northern Kyoto Temple Visit:** Visit **Daitoku-ji** complex for a more secluded Zen experience with beautiful rock gardens. | **Philosopher's Path (Tetsugaku-no-michi):** An evening walk along this path (best in Spring/Autumn, but tranquil year-round). |\n| **7** | **Deep Culture & Departure** | **Sanjūsangen-dō Temple:** See the impressive hall containing 1,000 life-sized statues of Kannon. | Final souvenir shopping or revisiting a favorite quiet spot like **Honen-in Temple**. | Depart from Kyoto. |\n\n---\n\n### Local Culture, Customs, and Etiquette Tips\n\n*   **Respect Sacred Spaces:** When visiting temples and shrines, show respect by keeping your voice down and avoiding running. Do not touch or lean on ancient wooden structures.\n*   **Temple Etiquette:** Remove outdoor shoes before entering temple buildings where required (often in areas with *tatami* flooring). Follow photography restrictions; do not use flash or take pictures where prohibited. Utilize the purification fountain (*temizuya*) correctly before entering.\n*   **Geisha Etiquette:** If you see a *geiko* or *maiko* in Gion, do not stop them, follow them, or touch their kimono. Take photos from a respectful distance, if at all.\n*   **Noise and Public Conduct:** Keep your voice down in public areas, especially on public transportation and in residential areas like Gion.\n*   **Eating/Walking:** Avoid eating or drinking while walking in crowded tourist areas or within shrines and temples, as this is prohibited in many places.\n*   **Tipping:** Tipping is **not** customary in Japan; a simple \"thank you\" is sufficient appreciation for good service.\n*   **Trash:** Kyoto has few public trash bins, so carry a small bag for your waste and dispose of it properly later.\n\n---\n\n### Transportation Options\n\nKyoto has an excellent and efficient public transportation system.\n\n*   **Buses:** The primary way to reach many temples and tourist sites, as the subway network is less extensive. Be prepared for congestion during peak hours. Consider purchasing a **Kyoto City Bus One-Day Pass** if you plan multiple bus rides.\n*   **Subway:** Useful for north-south and east-west travel across the city center.\n*   **Trains (JR and Private Lines):** Essential for reaching areas like Arashiyama (JR Sagano Line) and Fushimi Inari (JR Nara Line).\n*   **Walking/Cycling:** Many districts, like Higashiyama and Arashiyama, are best explored on foot. Cycling is also a great option in flatter areas.\n*   **Etiquette on Transit:** Always queue when waiting for buses or trains. Keep noise to a minimum on public transport.\n\n---\n\n### Safety Considerations and Travel Requirements\n\n*   **General Safety:** Kyoto is considered one of the safest cities in the world, with low crime rates. It is generally safe to walk around at night, even as a solo traveler.\n*   **Petty Crime:** While rare, remain vigilant about your belongings in crowded areas like Nishiki Market or during festivals to guard against pickpocketing.\n*   **Emergency Numbers:**\n    *   Police: **110**\n    *   Fire/Ambulance: **119**\n*   **Wildlife:** Be aware that Asiatic black bears have occasionally been sighted in areas near mountains, especially early morning or dusk. Take precautions if venturing into forested or mountainous areas.\n*   **Requirements:** As part of Japan, standard entry requirements (passport, visa if necessary) apply. Always check the latest official travel advisories before departure."
+        },
+        "artifactDelta": {},
+        "requestedAuthConfigs": {},
+        "requestedToolConfirmations": {}
+      },
+      "id": "ef37ad3f-9215-436d-9d5b-e5a4aed944fa",
+      "timestamp": 1763640595.014716
+    },
+    {
+      "modelVersion": "gemini-2.5-flash-lite-preview-09-2025",
+      "content": {
+        "parts": [
+          {
+            "text": "# 7-Day Cultural Deep-Dive Itinerary: Kyoto\n\nThis itinerary is designed for a comprehensive cultural immersion in Kyoto, balancing iconic historical sites with intimate experiences of Zen, tea traditions, and natural beauty.\n\n**Best Time to Travel:** Spring (Cherry Blossoms) or Autumn (Fall Foliage).\n\n---\n\n## Suggested Accommodation Area\n\nFor a first-time deep dive focusing on culture and accessibility, consider staying in or near:\n\n1.  **Higashiyama (East Kyoto):** Excellent access to Kiyomizu-dera, Gion, and the Philosopher's Path. Very atmospheric.\n2.  **Central Kyoto (Near Karasuma/Kawaramachi Stations):** Best for transportation links (subway and buses) and modern dining/shopping convenience.\n\n---\n\n## Day-by-Day Schedule\n\n### Day 1: Arrival & The Iconic East (Higashiyama)\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | Arrival at KIX/ITM, Transfer to Kyoto, Check-in | 3 - 4 hours | Take the Haruka Express (KIX) or Limousine Bus (ITM) to Kyoto Station. Settle into your accommodation. |\n| Lunch | Simple Udon or Soba near your hotel. | 1 hour | Look for a small, family-run noodle shop for a quick, authentic start. |\n| Afternoon | **Kiyomizu-dera Temple** | 2 - 3 hours | Explore the main hall and the Otowa Waterfall. **Etiquette Note:** Be mindful of large crowds. |\n| Late Afternoon | Stroll **Sannenzaka & Ninenzaka** streets | 1.5 hours | Browse traditional craft shops and wooden machiya houses. |\n| Dinner | **Higashiyama Dinner** | 1.5 - 2 hours | **Recommendation:** Try *Yuba* (tofu skin) cuisine, a Kyoto specialty, or find a cozy *yakitori* spot. |\n\n### Day 2: Zen, Tea, and Geiko Culture\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Traditional Tea Ceremony Experience** | 1.5 - 2 hours | Book in advance in the Gion or Higashiyama area. Focus on the meditative aspects of *Chanoyu*. |\n| Lunch | Lunch in Gion | 1 hour | Casual lunch near the Shirakawa canal area. |\n| Afternoon | **Kodai-ji Temple** | 2 hours | Explore the beautiful Zen gardens, especially impressive if autumn colors are present. |\n| Evening | **Gion District Walk** | 2 - 3 hours | Walk along Hanamikoji Street after sunset. **Crucial Etiquette:** Do not harass or block the paths of Geiko/Maiko. |\n| Dinner | **Pontocho Alley Dining** | 2 hours | Explore this narrow atmospheric alleyway running parallel to the Kamo River. Offers various options from high-end *kaiseki* to casual dining. |\n\n### Day 3: Golden Splendor and Contemplation\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Kinkaku-ji (Golden Pavilion)** | 1.5 hours | Aim to arrive shortly after opening (usually 9:00 AM) to experience the morning light reflecting off the gold. |\n| Transit | Travel to Ryoan-ji | 30 minutes | Use a local bus, as the subway does not reach these sites directly. |\n| Afternoon | **Ryoan-ji Temple** | 1.5 hours | Spend quiet time contemplating the famous rock garden. This is a core Zen experience. |\n| Late Afternoon | **Nishijin Textile Center (Optional)** | 1.5 hours | Observe kimono weaving demonstrations and perhaps purchase high-quality silk crafts. |\n| Dinner | **Central Kyoto/Nishiki Market Area** | 2 hours | Explore the area around Nishiki Market (though the market itself closes early). Look for quality sushi or tempura. |\n\n### Day 4: The Thousand Gates of Inari\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Fushimi Inari Taisha Shrine** | 3 - 4 hours | Start early (before 8:00 AM is ideal) to hike through the thousands of *torii* gates without intense crowds. Hike as far up Mt. Inari as you feel comfortable. |\n| Lunch | **Inari Street Food** | 1 hour | Try *Inari Sushi* (sushi rice in a fried tofu pouch) or grilled sparrow (a local delicacy, if adventurous) near the shrine entrance. |\n| Afternoon | Return to Central Kyoto & Rest | 2 hours | Use the JR Nara Line for quick return. This afternoon is intentionally lighter after the hike. |\n| Evening | **Local Izakaya Experience** | 2 - 3 hours | Find a local, non-touristy *izakaya* (Japanese pub) near your accommodation for small plates and local sake/beer. |\n\n### Day 5: Arashiyama Nature Immersion\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | Travel to Arashiyama & **Tenryū-ji Temple** | 3 hours | Take the JR Sagano Line. Visit the temple first to enjoy its superb landscape garden before the crowds peak. |\n| Lunch | Riverside Dining | 1 hour | Enjoy lunch with views of the Katsura River, perhaps trying Kyoto-style pickles (*tsukemono*). |\n| Afternoon | **Arashiyama Bamboo Grove** | 1.5 hours | Walk through the iconic grove. Continue walking past the main grove towards the quieter Okochi Sanso Villa (if time permits). |\n| Late Afternoon | **Hozugawa River Boat Ride (Seasonal)** | 2 hours | Optional: If conditions allow and you enjoy nature, consider this scenic boat ride. |\n| Evening | **Relaxation / Onsen** | Varies | If your accommodation doesn't have one, seek out a public *sento* (bathhouse) or *onsen* for relaxation after a long day of walking. |\n\n### Day 6: Shogun Power and Secluded Zen\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Nijo-jo Castle** | 2.5 hours | Explore the Shogun's residence. Listen for the famous \"nightingale floors\" designed to squeak and warn against intruders. |\n| Lunch | Near Nijo-jo or transition area. | 1 hour | Quick, satisfying lunch before heading north. |\n| Afternoon | **Daitoku-ji Temple Complex** | 2.5 - 3 hours | Visit this large Zen complex. Focus on one or two sub-temples like Koto-in or Zuihō-in for deep tranquility away from major tourist routes. |\n| Evening | **Philosopher's Path (Tetsugaku-no-michi) Walk** | 1.5 hours | A reflective evening walk along the canal. Very peaceful outside of peak cherry blossom season. |\n| Dinner | **Near Demachiyanagi or Imadegawa** | 1.5 - 2 hours | Explore dining options in the area near the northern end of the path. |\n\n### Day 7: Final Masterpieces & Departure\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Sanjūsangen-dō Temple** | 1.5 - 2 hours | Witness the mesmerizing hall containing 1,001 statues of Kannon, the Goddess of Mercy. Allow time for quiet observation. |\n| Midday | **Final Reflection Spot (Honen-in Temple)** | 1 hour | A small, atmospheric temple near the Philosopher's Path entrance, known for its moss and quiet solitude. |\n| Lunch | **Kyoto Station Area** | 1.5 hours | Lunch at Kyoto Station’s vast dining complex (e.g., The Cube or Isetan department store food floors) for convenience. |\n| Afternoon | Souvenir Shopping & Departure Prep | Varies | Final shopping at the station or revisiting a favorite neighborhood. Travel to the airport/next destination. |\n\n---\n\n## Estimated Budget Outline (Per Person, Mid-Range Travel)\n\nThis estimate covers daily activities, local transport, mid-range dining, and entry fees. **It excludes international flights and accommodation costs.**\n\n| Expense Category | Estimated Daily Cost (JPY) | Estimated 7-Day Total (JPY) | Estimated 7-Day Total (USD)* |\n| :--- | :--- | :--- | :--- |\n| **Accommodation** | 12,000 - 20,000 | 84,000 - 140,000 | $560 - $930 |\n| **Food & Drink** | 6,000 - 10,000 | 42,000 - 70,000 | $280 - $470 |\n| **Entry Fees/Activities** | 2,000 - 3,500 | 14,000 - 24,500 | $95 - $165 |\n| **Local Transport** | 1,000 - 1,500 | 7,000 - 10,500 | $45 - $70 |\n| **Miscellaneous/Buffer** | 1,000 | 7,000 | $45 |\n| **TOTAL ESTIMATE (Excl. Flights)** | **~22,000 - 35,000 JPY** | **~154,000 - 245,000 JPY** | **~$1,025 - $1,630 USD** |\n\n*\\*Note: USD conversion is approximate and based on exchange rates around 1 USD = 150 JPY.*\n\n### Key Budget Notes:\n\n1.  **Accommodation:** Prices vary wildly. Traditional *Ryokans* or boutique hotels will be at the higher end, while business hotels or hostels will be lower.\n2.  **Dining:** The budget allows for one mid-range dinner (e.g., $40 USD) and simpler lunches/breakfasts. High-end *Kaiseki* meals can easily add an extra $100–$200 per person.\n3.  **Transportation Pass:** If you plan 3 or more bus rides per day, the **Kyoto City Bus One-Day Pass (approx. 700 JPY)** is cost-effective. For this itinerary, mixing buses, subway, and JR lines might make individual tickets or an ICOCA/Suica card more flexible."
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "usageMetadata": {
+        "candidatesTokenCount": 2449,
+        "promptTokenCount": 1557,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 1557
+          }
+        ],
+        "totalTokenCount": 4006
+      },
+      "invocationId": "e-f2ef503f-ae2d-4fe2-b8d4-40c7327c0051",
+      "author": "ItineraryBuilderAgent",
+      "actions": {
+        "stateDelta": {
+          "travel_itinerary": "# 7-Day Cultural Deep-Dive Itinerary: Kyoto\n\nThis itinerary is designed for a comprehensive cultural immersion in Kyoto, balancing iconic historical sites with intimate experiences of Zen, tea traditions, and natural beauty.\n\n**Best Time to Travel:** Spring (Cherry Blossoms) or Autumn (Fall Foliage).\n\n---\n\n## Suggested Accommodation Area\n\nFor a first-time deep dive focusing on culture and accessibility, consider staying in or near:\n\n1.  **Higashiyama (East Kyoto):** Excellent access to Kiyomizu-dera, Gion, and the Philosopher's Path. Very atmospheric.\n2.  **Central Kyoto (Near Karasuma/Kawaramachi Stations):** Best for transportation links (subway and buses) and modern dining/shopping convenience.\n\n---\n\n## Day-by-Day Schedule\n\n### Day 1: Arrival & The Iconic East (Higashiyama)\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | Arrival at KIX/ITM, Transfer to Kyoto, Check-in | 3 - 4 hours | Take the Haruka Express (KIX) or Limousine Bus (ITM) to Kyoto Station. Settle into your accommodation. |\n| Lunch | Simple Udon or Soba near your hotel. | 1 hour | Look for a small, family-run noodle shop for a quick, authentic start. |\n| Afternoon | **Kiyomizu-dera Temple** | 2 - 3 hours | Explore the main hall and the Otowa Waterfall. **Etiquette Note:** Be mindful of large crowds. |\n| Late Afternoon | Stroll **Sannenzaka & Ninenzaka** streets | 1.5 hours | Browse traditional craft shops and wooden machiya houses. |\n| Dinner | **Higashiyama Dinner** | 1.5 - 2 hours | **Recommendation:** Try *Yuba* (tofu skin) cuisine, a Kyoto specialty, or find a cozy *yakitori* spot. |\n\n### Day 2: Zen, Tea, and Geiko Culture\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Traditional Tea Ceremony Experience** | 1.5 - 2 hours | Book in advance in the Gion or Higashiyama area. Focus on the meditative aspects of *Chanoyu*. |\n| Lunch | Lunch in Gion | 1 hour | Casual lunch near the Shirakawa canal area. |\n| Afternoon | **Kodai-ji Temple** | 2 hours | Explore the beautiful Zen gardens, especially impressive if autumn colors are present. |\n| Evening | **Gion District Walk** | 2 - 3 hours | Walk along Hanamikoji Street after sunset. **Crucial Etiquette:** Do not harass or block the paths of Geiko/Maiko. |\n| Dinner | **Pontocho Alley Dining** | 2 hours | Explore this narrow atmospheric alleyway running parallel to the Kamo River. Offers various options from high-end *kaiseki* to casual dining. |\n\n### Day 3: Golden Splendor and Contemplation\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Kinkaku-ji (Golden Pavilion)** | 1.5 hours | Aim to arrive shortly after opening (usually 9:00 AM) to experience the morning light reflecting off the gold. |\n| Transit | Travel to Ryoan-ji | 30 minutes | Use a local bus, as the subway does not reach these sites directly. |\n| Afternoon | **Ryoan-ji Temple** | 1.5 hours | Spend quiet time contemplating the famous rock garden. This is a core Zen experience. |\n| Late Afternoon | **Nishijin Textile Center (Optional)** | 1.5 hours | Observe kimono weaving demonstrations and perhaps purchase high-quality silk crafts. |\n| Dinner | **Central Kyoto/Nishiki Market Area** | 2 hours | Explore the area around Nishiki Market (though the market itself closes early). Look for quality sushi or tempura. |\n\n### Day 4: The Thousand Gates of Inari\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Fushimi Inari Taisha Shrine** | 3 - 4 hours | Start early (before 8:00 AM is ideal) to hike through the thousands of *torii* gates without intense crowds. Hike as far up Mt. Inari as you feel comfortable. |\n| Lunch | **Inari Street Food** | 1 hour | Try *Inari Sushi* (sushi rice in a fried tofu pouch) or grilled sparrow (a local delicacy, if adventurous) near the shrine entrance. |\n| Afternoon | Return to Central Kyoto & Rest | 2 hours | Use the JR Nara Line for quick return. This afternoon is intentionally lighter after the hike. |\n| Evening | **Local Izakaya Experience** | 2 - 3 hours | Find a local, non-touristy *izakaya* (Japanese pub) near your accommodation for small plates and local sake/beer. |\n\n### Day 5: Arashiyama Nature Immersion\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | Travel to Arashiyama & **Tenryū-ji Temple** | 3 hours | Take the JR Sagano Line. Visit the temple first to enjoy its superb landscape garden before the crowds peak. |\n| Lunch | Riverside Dining | 1 hour | Enjoy lunch with views of the Katsura River, perhaps trying Kyoto-style pickles (*tsukemono*). |\n| Afternoon | **Arashiyama Bamboo Grove** | 1.5 hours | Walk through the iconic grove. Continue walking past the main grove towards the quieter Okochi Sanso Villa (if time permits). |\n| Late Afternoon | **Hozugawa River Boat Ride (Seasonal)** | 2 hours | Optional: If conditions allow and you enjoy nature, consider this scenic boat ride. |\n| Evening | **Relaxation / Onsen** | Varies | If your accommodation doesn't have one, seek out a public *sento* (bathhouse) or *onsen* for relaxation after a long day of walking. |\n\n### Day 6: Shogun Power and Secluded Zen\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Nijo-jo Castle** | 2.5 hours | Explore the Shogun's residence. Listen for the famous \"nightingale floors\" designed to squeak and warn against intruders. |\n| Lunch | Near Nijo-jo or transition area. | 1 hour | Quick, satisfying lunch before heading north. |\n| Afternoon | **Daitoku-ji Temple Complex** | 2.5 - 3 hours | Visit this large Zen complex. Focus on one or two sub-temples like Koto-in or Zuihō-in for deep tranquility away from major tourist routes. |\n| Evening | **Philosopher's Path (Tetsugaku-no-michi) Walk** | 1.5 hours | A reflective evening walk along the canal. Very peaceful outside of peak cherry blossom season. |\n| Dinner | **Near Demachiyanagi or Imadegawa** | 1.5 - 2 hours | Explore dining options in the area near the northern end of the path. |\n\n### Day 7: Final Masterpieces & Departure\n\n| Time | Activity | Estimated Time | Notes & Dining Suggestions |\n| :--- | :--- | :--- | :--- |\n| Morning | **Sanjūsangen-dō Temple** | 1.5 - 2 hours | Witness the mesmerizing hall containing 1,001 statues of Kannon, the Goddess of Mercy. Allow time for quiet observation. |\n| Midday | **Final Reflection Spot (Honen-in Temple)** | 1 hour | A small, atmospheric temple near the Philosopher's Path entrance, known for its moss and quiet solitude. |\n| Lunch | **Kyoto Station Area** | 1.5 hours | Lunch at Kyoto Station’s vast dining complex (e.g., The Cube or Isetan department store food floors) for convenience. |\n| Afternoon | Souvenir Shopping & Departure Prep | Varies | Final shopping at the station or revisiting a favorite neighborhood. Travel to the airport/next destination. |\n\n---\n\n## Estimated Budget Outline (Per Person, Mid-Range Travel)\n\nThis estimate covers daily activities, local transport, mid-range dining, and entry fees. **It excludes international flights and accommodation costs.**\n\n| Expense Category | Estimated Daily Cost (JPY) | Estimated 7-Day Total (JPY) | Estimated 7-Day Total (USD)* |\n| :--- | :--- | :--- | :--- |\n| **Accommodation** | 12,000 - 20,000 | 84,000 - 140,000 | $560 - $930 |\n| **Food & Drink** | 6,000 - 10,000 | 42,000 - 70,000 | $280 - $470 |\n| **Entry Fees/Activities** | 2,000 - 3,500 | 14,000 - 24,500 | $95 - $165 |\n| **Local Transport** | 1,000 - 1,500 | 7,000 - 10,500 | $45 - $70 |\n| **Miscellaneous/Buffer** | 1,000 | 7,000 | $45 |\n| **TOTAL ESTIMATE (Excl. Flights)** | **~22,000 - 35,000 JPY** | **~154,000 - 245,000 JPY** | **~$1,025 - $1,630 USD** |\n\n*\\*Note: USD conversion is approximate and based on exchange rates around 1 USD = 150 JPY.*\n\n### Key Budget Notes:\n\n1.  **Accommodation:** Prices vary wildly. Traditional *Ryokans* or boutique hotels will be at the higher end, while business hotels or hostels will be lower.\n2.  **Dining:** The budget allows for one mid-range dinner (e.g., $40 USD) and simpler lunches/breakfasts. High-end *Kaiseki* meals can easily add an extra $100–$200 per person.\n3.  **Transportation Pass:** If you plan 3 or more bus rides per day, the **Kyoto City Bus One-Day Pass (approx. 700 JPY)** is cost-effective. For this itinerary, mixing buses, subway, and JR lines might make individual tickets or an ICOCA/Suica card more flexible."
+        },
+        "artifactDelta": {},
+        "requestedAuthConfigs": {},
+        "requestedToolConfirmations": {}
+      },
+      "id": "ea2448c7-a23f-4474-8035-8bc36b749c72",
+      "timestamp": 1763640604.091821
+    },
+    {
+      "modelVersion": "gemini-2.5-flash-lite-preview-09-2025",
+      "content": {
+        "parts": [
+          {
+            "text": "As your TravelOptimizerAgent, I have integrated crucial money-saving strategies, specific packing lists, contingency plans, and essential local resources into your detailed 7-Day Kyoto Cultural Deep-Dive Itinerary.\n\n# 7-Day Cultural Deep-Dive Itinerary: Kyoto (Optimized)\n\nThis itinerary is designed for a comprehensive cultural immersion in Kyoto, balancing iconic historical sites with intimate experiences of Zen, tea traditions, and natural beauty.\n\n**Best Time to Travel:** Spring (Cherry Blossoms) or Autumn (Fall Foliage).\n\n---\n\n## Suggested Accommodation Area\n\nFor a first-time deep dive focusing on culture and accessibility, consider staying in or near:\n\n1.  **Higashiyama (East Kyoto):** Excellent access to Kiyomizu-dera, Gion, and the Philosopher's Path. Very atmospheric.\n2.  **Central Kyoto (Near Karasuma/Kawaramachi Stations):** Best for transportation links (subway and buses) and modern dining/shopping convenience.\n\n---\n\n## Day-by-Day Schedule (With Optimizations)\n\n### Day 1: Arrival & The Iconic East (Higashiyama)\n\n| Time | Activity | Optimization Notes & Budget Tips |\n| :--- | :--- | :--- |\n| Morning | Arrival at KIX/ITM, Transfer to Kyoto, Check-in | **BUDGET TIP:** If using KIX, the *Haruka Express* is fast but expensive. Consider the cheaper **JR Local Rapid Service** followed by a transfer, or the **Airport Limousine Bus** for direct, often cheaper service to Kyoto Station. |\n| Lunch | Simple Udon or Soba near your hotel. | **MONEY SAVER:** Avoid restaurants directly facing major tourist spots (like the street leading to Kiyomizu-dera). Walk 2-3 blocks away for better value. |\n| Afternoon | **Kiyomizu-dera Temple** | **CULTURAL DO’s/DON’Ts:** Use the purification fountain (Temizuya) correctly: ladle water, wash left hand, then right, pour water into your cupped left hand to rinse the ladle handle, then discard water. |\n| Late Afternoon | Stroll **Sannenzaka & Ninenzaka** streets | **PACKING:** Wear comfortable, slip-on shoes. You will encounter many steep, uneven stone steps and some shops/temples require shoe removal. |\n| Dinner | **Higashiyama Dinner** | **BACKUP:** If Pontocho/Gion is booked, try the dining options inside the Shijo Kawaramachi department stores (like Takashimaya or Daimaru) for high-quality but cheaper set menus at lunchtime or early dinner. |\n\n### Day 2: Zen, Tea, and Geiko Culture\n\n| Time | Activity | Optimization Notes & Budget Tips |\n| :--- | :--- | :--- |\n| Morning | **Traditional Tea Ceremony Experience** | **MONEY SAVER:** Book a group ceremony rather than a private one. Look for ceremonies held in public community centers or smaller temples rather than high-end tourist venues for savings of 30-50%. |\n| Lunch | Lunch in Gion | **LOCAL APP:** Use **Tabelog** (Japan's primary restaurant review site) to find highly-rated, lower-priced lunch sets (*teishoku*) in the Gion area. |\n| Afternoon | **Kodai-ji Temple** | **CULTURAL DON’T:** Do not use flash photography anywhere inside temple buildings, even if it's not explicitly forbidden, as it degrades the art and disturbs visitors. |\n| Evening | **Gion District Walk** | **CRUCIAL DON'T:** Never attempt to stop, touch, or photograph a Geiko/Maiko if they are clearly rushing. Respect their work commute. Stay on public sidewalks. |\n| Dinner | **Pontocho Alley Dining** | **BACKUP PLAN:** If Pontocho is too busy or expensive, explore the smaller side alleys branching off Shijo Dori for less crowded *yakitori* joints. |\n\n### Day 3: Golden Splendor and Contemplation\n\n| Time | Activity | Optimization Notes & Budget Tips |\n| :--- | :--- | :--- |\n| Morning | **Kinkaku-ji (Golden Pavilion)** | **MONEY SAVER:** Entry fees are fixed, but arriving right at opening (9 AM) avoids paying for entry when the sun is harsh and crowds are thick, maximizing the visual experience for the standard fee. |\n| Transit | Travel to Ryoan-ji | **TRANSPORT TIP:** Purchase an **ICOCA/Suica Card** immediately. This refillable card streamlines bus/subway travel immensely—no need to fumble for exact change or bus passes daily. |\n| Afternoon | **Ryoan-ji Temple** | **CULTURAL DO:** Sit quietly for at least 10 minutes at the viewing platform. The garden is designed for quiet contemplation; rushing it defeats the purpose of this Zen stop. |\n| Late Afternoon | **Nishijin Textile Center (Optional)** | **BUDGET ALTERNATIVE:** If skipping the center, visit a small, independent craft shop in the Nishijin area to see artisans at work without the tourist shop markup. |\n| Dinner | **Central Kyoto/Nishiki Market Area** | **MONEY SAVER:** Nishiki Market vendors often sell ready-to-eat foods (pickles, mochi, skewers). Grab a selection of these for a delicious, varied, and cheap dinner feast. |\n\n### Day 4: The Thousand Gates of Inari\n\n| Time | Activity | Optimization Notes & Budget Tips |\n| :--- | :--- | :--- |\n| Morning | **Fushimi Inari Taisha Shrine** | **BACKUP PLAN (Heat/Rain):** If hiking in extreme heat or heavy rain, only go up to the first major junction (Yotsutsuji intersection) for the famous view, then descend. The upper mountain paths can be exposed. |\n| Lunch | **Inari Street Food** | **CULTURAL DO:** Trying *Kitsune Udon* (udon noodles with sweet fried tofu) is highly recommended here, as the fox (*kitsune*) is the messenger of the Inari deity. |\n| Afternoon | Return to Central Kyoto & Rest | **PACKING:** Bring moisture-wicking socks and a small towel. You will sweat while hiking Inari, and local washrooms/sento often charge for towel rental. |\n| Evening | **Local Izakaya Experience** | **CULTURAL DO:** When ordering at an Izakaya, expect a small cover charge called *otōshi* or *tsukidashi*—this is mandatory and includes a small appetizer. |\n\n### Day 5: Arashiyama Nature Immersion\n\n| Time | Activity | Optimization Notes & Budget Tips |\n| :--- | :--- | :--- |\n| Morning | Travel to Arashiyama & **Tenryū-ji Temple** | **MONEY SAVER:** Tenryū-ji has two entry fees: the main hall/garden and the separate Bamboo Grove access. If you are on a tight budget, skip the main hall but walk through the famous **Arashiyama Bamboo Grove** (Day 5 PM activity) which is free to access from the back paths. |\n| Lunch | Riverside Dining | **BUDGET TIP:** Buy high-quality *bento* boxes from a department store basement (*depachika*) near Kyoto Station before heading out, and have a scenic picnic lunch by the river. |\n| Afternoon | **Arashiyama Bamboo Grove** | **LOCAL RESOURCE:** Download an offline map of Arashiyama. The paths diverge, and good signage is sometimes lacking deeper in the woods. |\n| Evening | **Relaxation / Onsen** | **PACKING/CULTURAL NOTE:** If visiting a public bath/onsen, you must be comfortable bathing nude (separately for men/women). No tattoos are allowed in many traditional establishments—research tattoo-friendly options like **Tendon no Yu** if this is a concern. |\n\n### Day 6: Shogun Power and Secluded Zen\n\n| Time | Activity | Optimization Notes & Budget Tips |\n| :--- | :--- | :--- |\n| Morning | **Nijo-jo Castle** | **CULTURAL DON'T:** Do not step on the edges of the \"nightingale floors\" as they are more likely to squeak when stepped on near the perimeter. Walk carefully in the center if possible. |\n| Afternoon | **Daitoku-ji Temple Complex** | **ZEN TIP:** Select *one* sub-temple (e.g., Koto-in) to focus on deeply, as paying entry fees for too many small temples drains the budget quickly. The larger Daitoku-ji grounds are free to wander. |\n| Evening | **Philosopher's Path (Tetsugaku-no-michi) Walk** | **BACKUP PLAN (Rain):** If it is raining heavily, substitute this walk with a visit to the **Kyoto Museum of Crafts and Design** near Miyako Messe for an indoor cultural experience. |\n| Dinner | **Near Demachiyanagi or Imadegawa** | **MONEY SAVER:** This university-adjacent area (near Kyoto University) has many excellent, cheap, and authentic restaurants catering to students. |\n\n### Day 7: Final Masterpieces & Departure\n\n| Time | Activity | Optimization Notes & Budget Tips |\n| :--- | :--- | :--- |\n| Morning | **Sanjūsangen-dō Temple** | **CULTURAL DO:** Photography is strictly forbidden inside. Before entering, pause outside to meditate on the sheer scale of the statues; this helps prepare your mind for the overwhelming experience inside. |\n| Midday | **Final Reflection Spot (Honen-in Temple)** | **PACKING:** Pick up high-quality, long-lasting souvenirs like Kyoto incense (*Oko*) or preserved tea leaves today rather than waiting until the station. |\n| Lunch | **Kyoto Station Area** | **BUDGET TIP:** Head to the Isetan department store food halls (*depachika*) around 1 PM. Some high-end deli/bakery items are deeply discounted near closing time (usually 6 PM onwards, check local schedules). |\n| Afternoon | Souvenir Shopping & Departure Prep | **LOCAL APP:** Use **Google Maps** for real-time navigation to the airport transfer point, confirming the final platform/gate number for the Haruka Express or Shinkansen. |\n\n---\n\n## Optimization Deep Dive\n\n### 💰 Money-Saving Tips & Budget Alternatives\n\n1.  **Transportation Flexibility:** Rely primarily on walking and the efficient bus network. Purchase the **Kyoto City Bus One-Day Pass (700 JPY)** only if you plan 3 or more bus rides. For days using the JR lines (Inari, Arashiyama), an ICOCA/Suica card is best.\n2.  **Temple Passes:** Most major temples charge between 400–600 JPY entry. If you find yourself consistently skipping afternoon visits due to fatigue or budget strain, prioritize only the UNESCO sites (Kiyomizu, Kinkaku-ji, Tenryu-ji) to save entry fees.\n3.  **Dining Strategy:** Embrace *Konbini* (convenience stores like 7-Eleven, Lawson, Family Mart) for excellent, fresh breakfasts (Onigiri, Sandwiches) for under 400 JPY. For dinner, prioritize lunch sets (*teishoku*) which offer the same quality as dinner but at half the price.\n4.  **Water:** Carry a reusable water bottle. Vending machines are everywhere (and cheaper than buying bottled water in stores), and many temples have public water sources for refilling (check signage).\n\n### 🧳 Packing Recommendations (Kyoto Specific)\n\n*   **Comfortable Footwear:** Non-negotiable. You will easily walk 8-10 miles daily over uneven paving, gravel, and stairs.\n*   **Layered Clothing:** Evenings can be cool, especially near the rivers or when entering shady temple halls, even if the day is warm. Pack light, breathable layers.\n*   **Small, Foldable Umbrella/Rain Shell:** Essential, especially during the rainy season (June) or unpredictable shoulder seasons.\n*   **Small Gift (Omiyage):** If visiting a private tea ceremony or seeking specific artisanal services, having a small, attractively packaged souvenir from your home country (or a standard Japanese gift item) is a very polite gesture.\n*   **Portable Charger:** Early mornings and late evenings mean relying heavily on navigation apps; keep your phone charged.\n\n### 🌧️ Backup Plans for Weather or Unexpected Situations\n\n| Situation | Backup Activity / Contingency Plan |\n| :--- | :--- |\n| **Heavy Rain/Typhoon Warning** | **Day 5/6 Substitute:** Visit the **Kyoto International Manga Museum** (Central Kyoto), explore the massive underground shopping malls around Kyoto Station, or spend a long afternoon in the **Kyoto National Museum** or the **Kyoto Museum of Crafts and Design**. |\n| **Extreme Heat (Summer)** | Focus on sites with excellent air conditioning (Nijo-jo, Museums). Schedule Fushimi Inari for pre-sunrise (5:30 AM start) and retreat indoors between 11 AM and 3 PM. Utilize public transport heavily. |\n| **Unexpected Temple Closure** | Many small temples close for maintenance or private ceremonies. **Backup Plan:** Head to the nearby **Shinto Shrines** (which often have different opening hours) or explore local, unnamed neighborhood temples—these are often the most authentic finds. |\n| **Transportation Strikes/Delays** | If the JR line to Arashiyama is delayed, use the **Randen Tram** instead. It’s slower but offers a lovely, scenic ride through older districts. |\n\n### 📱 Local Apps, Websites, or Resources to Download\n\n1.  **Google Maps:** Essential for bus routes, walking times, and train schedules. Turn on \"Public Transit\" layers.\n2.  **Japan Transit Planner (Jorudan) or Navitime:** Excellent secondary resources for complex train routes involving multiple carriers (e.g., Shinkansen connections).\n3.  **Tabelog:** For reliable restaurant reviews and finding local gems away from tourist traps.\n4.  **Google Translate:** Download the Japanese language pack for offline translation, particularly useful for reading menus or signs.\n5.  **ICOCA/Suica App:** If you use a digital wallet on your phone, you can load and manage your transport card digitally, eliminating the need for a physical card.\n\n### ⛩️ Cultural Do's & Don'ts for Respectful Travel\n\n| Do | Don't |\n| :--- | :--- |\n| **DO** use quiet, respectful tones inside temples, shrines, and on public transport. | **DON'T** eat, drink, or smoke while walking down the historic streets (Sannenzaka, Gion). Find a designated spot. |\n| **DO** learn a few key phrases: *Arigatou gozaimasu* (Thank you very much) and *Sumimasen* (Excuse me/Sorry). | **DON'T** take pictures of people without asking, especially Geiko/Maiko or people performing religious rites. |\n| **DO** accept business cards (if exchanged) with both hands and examine them briefly before putting them away respectfully. | **DON'T** leave trash behind. Carry a small plastic bag for wrappers and bottles until you find a trash can. |\n| **DO** remove your shoes promptly when entering homes, certain temples, and traditional restaurants/tea houses. | **DON'T** point with your index finger; use an open hand gesture instead. |"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "usageMetadata": {
+        "candidatesTokenCount": 3374,
+        "promptTokenCount": 6523,
+        "promptTokensDetails": [
+          {
+            "modality": "TEXT",
+            "tokenCount": 6523
+          }
+        ],
+        "totalTokenCount": 9897
+      },
+      "invocationId": "e-f2ef503f-ae2d-4fe2-b8d4-40c7327c0051",
+      "author": "TravelOptimizerAgent",
+      "actions": {
+        "stateDelta": {},
+        "artifactDelta": {},
+        "requestedAuthConfigs": {},
+        "requestedToolConfirmations": {}
+      },
+      "id": "3197d644-48f9-4387-ac27-2f969240670e",
+      "timestamp": 1763640612.663996
+    }
+  ],
+  "lastUpdateTime": 1763640612.663996
+}
